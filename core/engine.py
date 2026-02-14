@@ -1,8 +1,17 @@
+import os
 import pandas as pd
 import math
 
+#  this below 3 lines are new added for live web
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+csv_path = os.path.join(BASE_DIR, "core", "jaunpur.csv")
+
+df = pd.read_csv(csv_path)
+
+# this below 2 lines was my default before live
+
 # df = pd.read_csv("core\places.csv")
-df = pd.read_csv("core\jaunpur.csv")
+# df = pd.read_csv("core\jaunpur.csv")
 
 places = df.to_dict(orient="records")
 
