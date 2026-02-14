@@ -25,7 +25,9 @@ SECRET_KEY = 'django-insecure-91-ns#y&v9sz6(gf#0i@u#)io52bh_5*g$0m^v5iot)_w-9w=4
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False # false for live in railway otherwise True
 
-ALLOWED_HOSTS = [".railway.app"] # for railway live type this othewise "*"
+ALLOWED_HOSTS = ['vansh162.pythonanywhere.com',
+                 'www.vansh162.pythonanywhere.com',
+                 ] # for pythonanywhere live type this othewise "*"
 
 
 # Application definition
