@@ -1,0 +1,96 @@
+name,lat,lon,category,popularity
+Unknown,26.0576085,82.6788534,bus_station,65
+Poorva Madhyamik Vidyalaya,26.0117004,82.6200762,school,23
+Old Temple,26.006196,82.6160474,place_of_worship,22
+Unknown,25.5503176,83.0029969,hotel,33
+Rajeshwari,25.8890133,82.4670029,hotel,22
+Unknown,25.6887877,82.4242535,fuel,37
+"District Hospital Blood Bank, Jaunpur",25.7598741,82.6975398,blood_bank,77
+M/s Isha Hospital Blood Bank,25.7330548,82.6725174,blood_bank,87
+Krishna Hart Care & Maternity Home's Blood Bank,25.7400471,82.6845177,blood_bank,88
+Samarpit Hospital,25.7470184,82.6795542,hospital,26
+"Parth Hospital, Jaunpur",25.7367334,82.6761398,hospital,29
+Kunwar Das Sewashram Nursing Home,25.735593,82.6994187,clinic,63
+Narayan Nursing Home,25.7468347,82.6938939,clinic,36
+Siddharth Multi Speciality Hospital Science and Research Center,25.7354553,82.6797527,hospital,98
+Krishna Heart Care and Maternity Home,25.7399794,82.6845337,hospital,95
+J P Memorial Hospital,25.7568582,82.694088,hospital,45
+Kalptaru Chikitsalya,25.7454716,82.6816966,clinic,32
+Nirmal Nursing Home,25.4757592,82.5690023,clinic,40
+Sangeeta Nursing Home,25.7279201,82.68985,clinic,46
+R.K. Hospital and Trauma Research Centre,26.053297,82.6870026,hospital,35
+Arogyaneer Diagnostic Clinic,25.5931466,82.9993722,clinic,83
+Dhiraji Hospital,25.6437776,82.920776,hospital,92
+Sunita Hospital,25.7396424,82.6656336,hospital,52
+"Shraddha Hospital, Jaunpur",25.7392249,82.6874994,hospital,51
+Sushila Devi Memorial Hospital,26.0574549,82.6841958,hospital,98
+Isha Hosital,25.7330029,82.6725617,hospital,99
+Apex Eye Hospital,25.7355797,82.6953149,hospital,23
+"Yash Nursing Home and Maternity Home, Bhadohi",25.6454714,82.9182591,clinic,38
+Kumar Surgical Nursing Home,25.7496613,82.6933063,hospital,32
+Maa Tara Hospital,25.7380913,82.6632856,hospital,72
+Aashirwad Hospital And Research Centre,25.7376672,82.6737405,hospital,25
+Kamla Hospital,25.7380768,82.6853894,hospital,27
+Laxmi Health Care and Hospital,25.7801071,82.6904869,hospital,77
+"DGD, Jonapur",28.4632963,77.1519695,clinic,39
+Government Hospital SONGAR,25.9098683,82.7515923,hospital,75
+District Women Hospital Jaunpur,25.7592013,82.6968142,hospital,36
+Government Hospital Hatiya,25.847722,82.2924364,hospital,24
+Government Hospital Tiwaran,25.5154329,82.6785283,hospital,60
+Government Hospital Sathariya,25.6605677,82.235245,hospital,76
+Government Hospital Bajarang Nagar,25.6535266,82.9935095,hospital,20
+Sewa Hospital,26.0529221,82.6874616,hospital,90
+Yashoda Hospital and Heart Chest Care Centre,25.7421703,82.6868267,hospital,21
+Surya Hospital,26.0482406,82.6817687,hospital,93
+Jeevan Raksha Hospital,25.7501958,82.7016531,hospital,58
+Baba Neem Karoli Dispensary,28.4630522,77.1537878,clinic,23
+ganesh ji mandir,25.7673297,82.6716149,place_of_worship,21
+Unknown,25.6065435,82.7709314,fuel,27
+Vijay,25.7867525,82.2316079,fuel,55
+SK fAbrication,25.7711623,82.33021,supermarket,42
+Sita Mata Dham,25.7714538,82.3299511,place_of_worship,68
+Narendra Medical Store,25.7709644,82.3298289,medical_supply,31
+SF PowerBay,25.7713658,82.3294064,electronics,94
+Saraybhogi primary school,25.7712723,82.3290009,school,95
+Shiv Temple,25.6389923,82.5605543,place_of_worship,78
+Chaura Mata Mandir,25.6382313,82.5629849,place_of_worship,44
+Arpit Vastralaya,25.5590753,82.7288702,clothes,100
+रुद्रांश & अयंश मिस्ठान & नास्ता सेन्टर,25.5587699,82.7286644,food_court,89
+Vijay Kirana Store,25.5586746,82.7283154,grocery,97
+Ujjwal Tent House,25.5601449,82.7290774,yes,87
+Anand Food Corner,25.55881,82.7285448,fast_food,21
+Sushila ladies Silai kendra,25.5590301,82.7288614,sewing,77
+Electronic and Mobile repair,25.5591019,82.7288858,electronics,54
+Chaura Mata Temple,25.5601315,82.7322942,place_of_worship,40
+Dih Baba,25.5583602,82.7312126,place_of_worship,39
+Hardware and Grill,25.5580067,82.7279692,hardware,36
+Patel Tent House,25.558927,82.7285808,yes,73
+Navratri pujan area,25.5616701,82.7306307,place_of_worship,69
+Shushil Studio,25.5588013,82.7284932,gallery,54
+Kumar tent house pasiyahikhurd jaunpur,25.5478196,82.7295977,yes,67
+Unknown,25.5482885,82.7290953,community_centre,46
+Vijay hardware,25.5486849,82.7295205,hardware,36
+Durga Mata Temple,25.5817925,82.7287227,place_of_worship,82
+शिव मन्दिर पसियाही खुर्द,25.5481656,82.7293789,place_of_worship,40
+Kusia Medical Store,25.5848394,82.7300161,medical_supply,20
+Saraswati Gyan mandir,25.5825386,82.7295456,school,99
+Krishna General Store,25.548868,82.7295849,general,20
+Patel kirana store,25.5492407,82.7297038,grocery,44
+शहीद दीपक भारत गैस,25.5475212,82.7317136,gas,86
+Shailesh kirana store,25.5476154,82.7310797,grocery,21
+Raj Building Material,25.5812292,82.728121,building_materials,27
+Trilochan Mahadev Temple,25.5766448,82.7862362,place_of_worship,60
+shree siddheshwar Mahadev temple,25.6894033,82.2303536,place_of_worship,51
+Hanuman Mandir,25.690662,82.2272258,place_of_worship,80
+Unknown,25.682938,82.2334199,toilets,39
+chaura Mata mandir Madardih,25.6894536,82.2340139,place_of_worship,40
+Primary School,25.6837907,82.2333724,school,62
+Maa Mandeshwari Mandir,25.6830992,82.2335479,place_of_worship,59
+Madardih Msjid,25.6853252,82.2343858,place_of_worship,71
+shree sudharak puddan ram patel school,25.6870637,82.2265769,school,66
+Sant Panchamdas Inter college,25.688482,82.2256766,school,80
+Mohit kirana store,25.6881768,82.2347749,yes,49
+Tokha,25.6884758,82.2368082,viewpoint,79
+Union Bank of India,25.6906535,82.2266225,bank,28
+Unknown,25.6864151,82.2370506,place_of_worship,26
+Prithviraj Chauhan,26.0232989,82.6232826,artwork,80

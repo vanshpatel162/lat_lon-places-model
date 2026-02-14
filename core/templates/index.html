@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h2>Ahmedabad Event / Service Finder</h2>
+
+<form method="get">
+  <input type="text" name="q" placeholder="food, event, shop">
+  <button type="submit">Search</button>
+</form>
+
+<ul>
+{% for r in results %}
+  <li><h3>{{ r.1 }} → {{ r.2 }} km ({{ r.3 }})</h3></li>
+{% endfor %}
+</ul>
+</body>
+</html>
+

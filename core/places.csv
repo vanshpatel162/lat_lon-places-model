@@ -1,0 +1,2050 @@
+name,lat,lon,category,popularity
+Atlanta,23.0265179,72.5535161,public_building,22
+"St. Xavier's High School, Loyola Hall",23.047875,72.5490839,school,77
+Mt. Carmel School,23.0351192,72.568061,school,95
+Bodakdev Fire Station,23.0398116,72.5163171,fire_station,34
+Navrang School,23.0483604,72.556364,school,26
+"DPS - Delhi Public School, Bopal",23.0419569,72.4575053,school,39
+A. G. Teachers High School,23.0403655,72.5484846,school,74
+Manav Mandir,23.0461532,72.5396662,place_of_worship,44
+"Karnvanath Mahadev, Shiv Temple",23.0470512,72.5498248,place_of_worship,79
+Paramdham Temple,23.0279683,72.5206423,place_of_worship,36
+Gayatri Mandir,23.0616617,72.5914612,place_of_worship,79
+Wide Angle,23.0245953,72.5072957,cinema,95
+St. Xavier's College,23.0329052,72.5517045,college,87
+SLIMS - Som Lalit Institute of Management Studies,23.0337029,72.5537987,college,78
+"Mount Carmel School, Khanpur",23.0329288,72.5766297,school,75
+Amola Chambers,23.0322763,72.5596359,public_building,62
+BSNL Navrangpura,23.031785,72.5592443,public_building,89
+Shilp,23.0328924,72.5604427,public_building,69
+City Centre,23.0406632,72.5567409,public_building,55
+Navdeep,23.0405777,72.5687511,public_building,34
+Memnagar Fire Station,23.0455062,72.5510013,fire_station,74
+Jalaram Mandir,23.0180339,72.5617653,place_of_worship,23
+Sakar 2,23.0229657,72.5725025,attraction,75
+Sakar 4,23.0235187,72.5717901,attraction,71
+Sanskar Kendra,23.0130948,72.5694038,museum,71
+Suvidha Shopping Centre,23.0144556,72.5591462,convenience,49
+Jivraj Mehta Hospital,23.0085819,72.5432503,hospital,39
+"Bhimnath Mahadev, Shiv Temple",23.0119553,72.5499794,place_of_worship,80
+Paldi Bus Stand,23.0140725,72.5645878,bus_station,29
+"Adlabs, BIG Cinema",23.0465768,72.531028,cinema,82
+Sterling Hospital Div. Of Addlife Medical Institute Pvt. Ltd.,23.0487566,72.5312683,hospital,98
+Vishala,22.9936417,72.5357058,restaurant,63
+Rajvadu Restaurant,23.0042051,72.5397742,restaurant,88
+10 (Ten) Acres Mall,23.01524,72.5965751,supermarket,92
+Kankaria Zoo,23.0081615,72.6038792,zoo,24
+Unknown,23.0182439,72.60021,clothes,31
+Raipur Gate,23.0174361,72.5947812,attraction,78
+"Jagannath Mandir, Temple",23.0114213,72.5810755,place_of_worship,70
+Narol Circle,22.9728189,72.5883525,attraction,63
+Chandkheda,23.107121,72.5848584,post_box,39
+Unknown,23.0923921,72.5938017,cinema,67
+Unknown,23.0924908,72.5917525,hospital,94
+Sant Asharamji Ashram,23.0931619,72.6024491,place_of_worship,61
+Unknown,23.0648296,72.5821405,restaurant,38
+Nal Sarovar Bird Sanctuary,22.8205867,72.0455369,attraction,27
+Staff Parking,23.0113878,72.5687751,parking,67
+Amphitheatre,23.0111829,72.5707945,theatre,71
+Unknown,23.011309,72.569162,bench,85
+Unknown,23.0110649,72.5705432,place_of_worship,96
+Unknown,23.011213,72.5694487,fountain,34
+Unknown,23.0112987,72.5694693,toilets,86
+Vechaar: Utensils Museum,22.9944376,72.5357319,museum,45
+Unknown,23.0116557,72.5687622,atm,32
+Spice,23.0125449,72.5679747,hotel,61
+Dev Regency,23.0156138,72.5656966,hotel,45
+Temple,23.0151595,72.5666935,place_of_worship,82
+Unknown,23.0141905,72.5682822,place_of_worship,20
+Unknown,23.0606452,72.5804476,post_box,66
+Comfort Inn,23.0810988,72.6169531,hotel,79
+Unknown,23.0238654,72.590076,place_of_worship,56
+Arihant Agency,23.0235904,72.5912229,convenience,54
+Vidyarthi,23.0248237,72.5902915,books,78
+Mangaldas Ni Haveli,23.0227338,72.5920852,restaurant,25
+Bird Feeder,23.023616,72.5907685,attraction,88
+Bird Feeder,23.0234082,72.5915706,attraction,84
+Sabermati Ashram Guesthouse,23.0613841,72.579973,hotel,36
+ashram-managers guesthouse,23.0616847,72.5793767,attraction,79
+Prathana Bhoomi - Prayers ground,23.0600285,72.5811103,attraction,37
+Mahatma Gandhi statue,23.060271,72.580985,artwork,50
+Information Sign,23.0605674,72.5804035,information,85
+Imam Manzil - Khadi Weaving and Gramodhyog,23.0615878,72.5803317,attraction,70
+Handmade Paper Shop,23.0635723,72.5798948,attraction,67
+Kochrab Satyagraha Ashram,23.0158902,72.5667508,attraction,45
+McDonald's,23.0317635,72.5701852,fast_food,53
+Cyber Cafe,23.0422876,72.5699576,cafe,22
+Hotel Alkan,23.0292295,72.5834609,hotel,25
+"Medilink Hospital, Ahmedabad",23.0173915,72.5304396,hospital,31
+City Gold Shyamal,23.0156527,72.5301088,cinema,24
+Medilink Medical Store,23.0172124,72.5303877,pharmacy,52
+Manikarnikeshwar Mahadev Temple,22.9978398,72.6073978,place_of_worship,92
+Chai Gate,23.0120139,72.5691915,bench,88
+Unknown,23.0112778,72.5709613,toilets,97
+Unknown,22.8593456,72.0482474,fuel,58
+029,22.927361,72.4466514,bank,56
+Cafe Souq,23.0410467,72.5485619,restaurant,58
+Chocolate Room,23.0407234,72.5485324,cafe,75
+"Barrista, Vijay 4 Roads",23.0427079,72.5494685,cafe,71
+Cafe Coffee Day,23.0312796,72.5493907,cafe,98
+Upper Crust Cafe,23.0412121,72.5485673,restaurant,98
+Health Center,23.1039413,72.5679365,hospital,89
+D-cabin,23.1023628,72.5702646,bus_station,83
+Vallabhpark,23.101524,72.576519,bus_station,89
+Bharat Kirana Stores,23.0380231,72.5889014,convenience,54
+Chai Gate!!!,23.0120603,72.5691606,cafe,34
+Exhibition & Spatial Design,23.0113752,72.5699733,school,92
+Ahmedabad Historic Gujari Bazaar (Sunday Market),23.0244067,72.5768457,marketplace,88
+Amul,23.0116852,72.568823,fast_food,82
+Design Gallery,23.011756,72.5690409,arts_centre,94
+Logo Wall,23.0108913,72.5692167,attraction,69
+HP Fuel Station,23.0331106,72.5139509,fuel,74
+Indian Bank,23.0323231,72.511317,bank,69
+State Bank of India,23.0263264,72.5077538,atm,53
+The Grand Bhagwati,23.042462,72.5144059,hotel,42
+Kendriya Vidyalaya SAC,23.0370691,72.5337334,school,31
+Dinner Bell,23.0457522,72.5524611,restaurant,94
+Apollo Pharmacy,23.0456657,72.5522734,pharmacy,94
+"State Bank of India, St. Xavier's School Road Branch",23.0458191,72.5523558,bank,35
+Sahajanand College,23.0258294,72.5430971,school,29
+Prabhudas Thakkar College,23.0033486,72.5669236,school,99
+Ahmedabad Institute Of Medical Services (Aims),23.0033217,72.5639517,hospital,87
+Indian Bank,23.0047261,72.5645714,bank,41
+Ansh Petrol Pump,23.0045263,72.5644882,fuel,93
+Shushtrut Hospital,23.0090048,72.56227,hospital,94
+Unknown,23.0034536,72.5651766,place_of_worship,69
+Central Bank of India,23.0471515,72.5527534,bank,38
+Kalupur Commercial Co-operative Bank,23.0453324,72.5517832,bank,21
+Akhbarnagar petrol pump,23.0684998,72.5619985,fuel,20
+Havmor Restaurant,23.0376713,72.565775,restaurant,82
+Natural Ice Cream,23.0328812,72.5655478,fast_food,47
+Crossword Book Store,23.0327479,72.5653869,books,61
+Agashiye Restaurant,23.0270378,72.5816167,restaurant,38
+Kaka Bhajipav,23.0037105,72.6379538,hotel,77
+Bank of Baroda,23.0058514,72.5910422,bank,93
+The Ummed Ahmedabad,23.0823961,72.6165176,hotel,69
+Food Temple,23.0847638,72.5647629,restaurant,95
+Shree Aaiji Super Market,23.0856343,72.5646439,supermarket,33
+Kesharbhavani Medical Store,23.0855329,72.5643816,pharmacy,57
+Samruddhi Jwellers,23.0849901,72.5646659,jewelry,57
+Unknown,23.0899418,72.5657014,atm,99
+Black Salt,23.0523024,72.4998803,restaurant,26
+Al-Aman Hotel,23.0171175,72.589927,guest_house,80
+Unknown,23.0229763,72.5783185,hairdresser,23
+Cadillac Guest House,23.0259742,72.5814073,guest_house,32
+Good Night,23.0268808,72.5816588,hotel,57
+Green House Restaurant,23.0272633,72.5816108,restaurant,86
+Hotel Embassy,23.023332,72.5784759,guest_house,59
+Unknown,23.0246727,72.5824724,place_of_worship,51
+New Esquire,23.0268288,72.5816543,guest_house,43
+Paris Hotel,23.0280485,72.5981085,guest_house,98
+Rajdhani Guest House,23.0252513,72.5815886,guest_house,58
+Sahil Guest House,23.0257592,72.5815592,guest_house,55
+Soheb Guest House,23.0253553,72.5815908,guest_house,53
+Venus Guest House,23.0258639,72.5815558,guest_house,99
+Unknown,23.0173101,72.5896206,place_of_worship,31
+Unknown,23.0230528,72.5783265,guest_house,95
+Unknown,23.0263196,72.5841287,fuel,53
+Gopnath Mahadev Mandir,23.0688147,72.5648948,place_of_worship,62
+Vrundavan Restaurant;AKHBAR NAGAR CIRCLE,23.0674245,72.5645716,restaurant,68
+Bhoyani Jain Tritha,23.3595416,72.2290503,place_of_worship,87
+Panchshil Madyamic School,23.4021418,72.2425645,college,65
+Market Yard,23.4054806,72.2409654,mall,62
+Mahadev Mandir,23.4055762,72.2425677,place_of_worship,71
+Arogya Vardhak Hospital,23.4050091,72.2415164,hospital,74
+Punit Ashram,23.0024214,72.605685,place_of_worship,73
+AMC MET Medical College,22.9986434,72.6046567,college,25
+Rehoboth Christian Assembly,23.0010208,72.5368761,place_of_worship,49
+Jivkorbhai Lallubhai High School,22.9987803,72.6026493,school,60
+Govind Cycles,22.9990897,72.6016251,bicycle,44
+KK Shah Jarodwala Science College,22.998722,72.6030289,college,90
+Rambaug Post Office,22.9983828,72.5960246,post_office,33
+Shree Swaminarayan Temple Gadi Sansthan,22.9955398,72.6107331,place_of_worship,25
+Ambaji Mata Temple,22.9912494,72.6083788,place_of_worship,24
+Baba Ramdev Pir Temple,22.992009,72.605944,place_of_worship,72
+Maneklal Jethalal Public Library,22.9915868,72.6073361,library,44
+Ram Krishna Temple,22.9916559,72.6062149,place_of_worship,63
+Shiv Mandir (Temple of Lord Shiva),22.9915288,72.6063779,place_of_worship,83
+Mother Dairy,23.0355267,72.5154344,dairy,87
+Navchetan School,23.0152445,72.5630784,school,69
+Rajhans Cinemas,23.0664215,72.5316963,cinema,68
+Karmachari Shiksan Tirth,23.064931,72.5415796,school,52
+Panchdev Mahadev Mandir,23.0654461,72.5424404,place_of_worship,33
+M B Patel Gyanjyot High School,23.0702999,72.5460531,school,59
+Gyanda Girls High School,23.072279,72.5479789,school,70
+Nutan Vidya Vihar,23.0681554,72.5428774,school,85
+Real Paprika,23.0212619,72.543503,restaurant,46
+"Khodiyar Temple, New Ranip",23.0925942,72.5664534,place_of_worship,58
+Tagore Hall,23.012914,72.5710792,townhall,35
+Navrangpura,23.0355882,72.5641854,bus_station,70
+All India Radio ( Ahmedabad Center ),23.039799,72.5687134,studio,69
+Dada Harir Vav,23.0406958,72.6054713,attraction,92
+Dai Halima tomb,23.0409874,72.6049887,attraction,95
+Ahmedabad District Cooperative Bank,23.0406536,72.5713107,bank,22
+Khamasa Parsi Agiyari,23.0212928,72.5847376,place_of_worship,34
+Gol Limbda Bhajiya and Nashta House,23.0200882,72.5860331,fast_food,92
+"The State Bank of India, Ahmedabad Office",23.0245389,72.579428,bank,73
+Ellisbridge Police Station,23.022886,72.5716416,police,71
+"British Library, Ahmedabad",23.0241291,72.55992,library,64
+CEPT University Parking Space,23.0385409,72.5505639,parking,69
+Ahmedabad ni Gufa,23.0362323,72.5496859,arts_centre,66
+Zen Cafe,23.0362229,72.5494261,cafe,81
+Barbeque Nation,23.0480405,72.526862,restaurant,59
+Cafe Coffee Day,23.0329764,72.5600005,cafe,75
+Citibank,23.0337365,72.5608865,bank,79
+Induben Khakhrawala,23.0325848,72.5613239,convenience,95
+"The State Bank of India, Ahmedabad Office",23.0328329,72.5598654,bank,64
+MAAC Studio,23.0336976,72.5608424,studio,78
+Jain Temple,23.0333137,72.5599824,place_of_worship,22
+Kotak Mahindra Bank,23.0331142,72.5599842,bank,20
+Romano,23.0328013,72.5603885,clothes,67
+Chanel,23.0340092,72.5601894,clothes,55
+Vikram A. Sarabhai Community Science Centre,23.0366663,72.5492165,community_centre,45
+Sai Baba Temple,23.0804158,72.6203895,place_of_worship,82
+Sardarnagar Police Station,23.0804289,72.620522,police,33
+"PVR, acropolis mall",23.0490934,72.5160613,cinema,41
+kalupur Police Station,23.0280667,72.5938493,police,21
+Unknown,22.7241529,72.2705721,farm,20
+Unknown,22.2454073,72.1806556,fuel,58
+Unknown,22.251392,72.1881124,fuel,65
+Dariyakhan Ghummaj,23.0526575,72.5867794,place_of_worship,95
+Sheikh Mohimmad atik,23.0243077,72.5837441,kiosk,57
+Unknown,23.0307495,72.5398312,kiosk-cholle kulchr,68
+Unknown,23.0265455,72.5443605,prakash-dalwasa,90
+talsingh,23.0263991,72.5443504,kiosk-nagar cholafadi,96
+master wada paav,23.0260866,72.5440367,kiosk,26
+sureshbhai prajapati,23.0230239,72.5431753,kiosk-indorni sabu dana khichdi,77
+login,23.0425653,72.5497189,tea,98
+login,23.0425341,72.5503049,tea,72
+have a nice day,23.0422756,72.5506152,tea,97
+R.K.OMLET,23.0454711,72.5517948,deli,72
+Janta,23.0479379,72.5337283,ice_cream,55
+new rashtriya bhajiya house,23.0364058,72.5692215,kiosk,94
+krishna cold drinks,23.0401345,72.5795927,beverages,26
+janta bakery,23.036703,72.5797316,bakery,63
+rehmati bakery,23.037044,72.5690405,bakery,74
+happiness,23.0427571,72.5496027,coffee,85
+bhogilal mulchand,23.0368824,72.5694452,bakery,93
+saviour annexe hospital,23.0368587,72.5699511,hospital,29
+super tea stall,23.0376364,72.569816,tea,88
+shri shankar bhuvan nashta house,23.0398738,72.5779042,kiosk,25
+barley water shop,23.0422114,72.549159,beverages,99
+navrang restuarant,23.0426527,72.5492686,deli,84
+jalaram parontha house,23.0426291,72.549319,deli,20
+punjabi flavours,23.0426338,72.5493001,deli,71
+bherunath jain chavana house,23.039816,72.5798143,bakery,84
+manhar doodh ghar,23.0385763,72.579821,bakery,85
+dhanlakshmi fruit stall,23.0345651,72.5796656,greengrocer,54
+rehmati bakery,23.0371194,72.5691251,bakery,45
+Amul,23.0440918,72.5472223,dairy,68
+Shreeji krupa vadapav,23.0423379,72.549193,fast_food,36
+facebook restuarant,23.0426661,72.5492595,deli,76
+R K vadapav,23.0424164,72.5492615,deli,80
+rasranjan,23.042291,72.5487336,bakery,71
+McDonald's,23.0423816,72.5486525,fast_food,34
+Mukhwaas,23.0241153,72.5871222,kiosk,20
+Asharfilal Kulfi,23.0426757,72.5492422,fast_food,99
+Hindustan Petroleum Station,23.0120486,72.5638517,fuel,60
+Bhadra Taxi Stand,23.0271947,72.5801019,taxi,56
+Bismillah Boarding Guesthouse,23.0248912,72.5828443,guest_house,25
+Central Bank of India,23.0274353,72.5809242,bank,66
+Comfort,23.0264847,72.5821262,hotel,52
+Ghandi Cold Drink House,23.0246187,72.5828928,cafe,73
+Gita Mandir,23.0147506,72.5911761,taxi,26
+HDFC Bank Paldi Branch,23.0137058,72.559847,bank,41
+HDFC Bank Relief Road Branch,23.026296,72.5819103,bank,98
+Karanj Police Station,23.0245097,72.5820394,police,68
+Lucky Tea Shop,23.027562,72.5811204,fast_food,73
+Mehul,23.0267135,72.581946,hotel,90
+Metropole,23.0266885,72.5819313,hotel,47
+Naeeka,23.0552316,72.5908571,restaurant,35
+Nishat,23.0248713,72.5829376,restaurant,26
+Nishat,23.0248607,72.5830856,restaurant,94
+Paramount,23.0245678,72.5823659,restaurant,47
+Unknown,23.0049181,72.5529832,fuel,40
+Unknown,23.0153173,72.5927666,travel_agency,85
+Unknown,23.0388835,72.5880366,atm,58
+Indian Oil,23.0396523,72.5955759,fuel,54
+Relief Cyber Cafe,23.0263181,72.5830356,cafe,32
+Sahara,23.0253454,72.5829711,hotel,48
+Volga,23.0268157,72.582027,hotel,70
+ZK,23.0263496,72.5824954,hotel,95
+fish market,23.0247302,72.5841473,marketplace,31
+meat market,23.0247665,72.5834189,marketplace,41
+Maninagar Bus stop,22.99746,72.6259649,bus_station,40
+Maninagar Railway Station,22.9986995,72.6109437,bus_station,21
+Calico Textile Museum,23.05418,72.5924764,museum,21
+Naroda Gam,23.0770964,72.6558075,bus_station,29
+Ahmedabad,23.0218734,72.5984903,bus_station,55
+Lal Darwaja AMTS Bus Stop,23.0241902,72.5785562,bus_station,50
+Bopal Vegetable Market,23.0307489,72.4718735,supermarket,80
+Loving Community,22.9994873,72.6442136,community_centre,42
+Jamalpur,23.0057337,72.5740652,community_centre,67
+Adani CNG Gas Station,23.011445,72.5864365,fuel,79
+Unknown,23.04628,72.5324945,motorcycle_parking,49
+Jasuben Pizza,23.0206812,72.5540845,fast_food,96
+Dharmeshawar Mahadev Temple,23.0784656,72.5916738,place_of_worship,63
+Jain Derasar,23.0803221,72.5922625,place_of_worship,35
+Unknown,23.0843928,72.5914619,supermarket,88
+Geeta Maternity Hospital,23.0836049,72.5901213,hospital,63
+Ramji Mandir,23.0836988,72.5895182,place_of_worship,45
+Vaishno Devi Mataji Mandir,23.0790305,72.5895455,place_of_worship,47
+Sabarmati Development Society Sanchalit Sheth Shri Pukhraj Raichand General Hospital,23.0829627,72.5906964,hospital,38
+HDFC Bank,23.0835179,72.5909029,bank,32
+MAHARAJ Food Corner,23.0839448,72.5892158,fast_food,25
+Gol Bank,23.0834501,72.5888148,bank,73
+Bank of Baroda,23.0825491,72.5900739,bank,23
+GCS Medical College Hospital and Research Centre,23.0389267,72.6107232,hospital,41
+Adidas,23.0141932,72.5291592,shoes,73
+sakuntal hat,23.0140155,72.5283921,fashion,24
+saswat bank,23.0140747,72.5285852,bank,48
+CHANDLODIA MARKET,23.0891843,72.5415308,marketplace,37
+RC TECHNICAL INSTITUTE,23.0830479,72.5307242,college,78
+SOLA POLICE STATION,23.0869563,72.5290719,police,35
+waah,23.0342579,72.5609251,restaurant,54
+havmor,23.0342641,72.5608446,restaurant,77
+Unknown,23.0344715,72.5611879,restaurant,87
+choice,23.0344517,72.5612536,restaurant,77
+chocolate room,23.0358422,72.5617312,cafe,59
+purohit,23.0342345,72.5610096,restaurant,61
+HDFC Bank,23.0098902,72.5465809,bank,47
+TDW Furniture Private Limited,23.0270936,72.5217681,furniture,45
+RA.B.GI.U Muncipal Library,23.028543,72.5963088,library,48
+B.N.Library,23.021184,72.594867,library,80
+Chandrakant Baxi Muncipal Library,23.06356,72.566632,library,96
+Dr.Shyama Prashad Mukharji Muncipal Library,23.0111095,72.5316614,library,73
+Gorvardhan AM Tripathi Muncipal Library,22.998323,72.602814,library,78
+Jayotindra Dave Muncipal Library,23.043314,72.580155,library,49
+Kavi Ramanlal Vasantlal Desai Muncipal Library,23.0256941,72.644105,library,32
+Patel.K.K.Muni Library,23.074475,72.656816,library,30
+Swa.Lalbhai Kundivala Muncipal Library,23.018496,72.586658,library,67
+V.N.Shah Library,23.021774,72.623712,library,43
+canera bank,23.0526603,72.5568708,bank,37
+Cafe Coffee Day,23.0245018,72.5073318,cafe,85
+Honest,23.0385865,72.5126614,restaurant,65
+Subway,23.0385075,72.512884,fast_food,87
+McDonald's,23.0244178,72.507327,fast_food,48
+Havmor,23.0381817,72.5122645,restaurant,81
+Star Bazaar,23.0269648,72.5242142,supermarket,62
+Shell,23.0121167,72.5124778,fuel,69
+Yes Bank,23.0119649,72.5130175,bank,83
+Shangrila Bunglows,23.0568853,72.5089574,community_centre,56
+hotel sangrila,22.9138916,72.401875,hotel,88
+Jeet Tours & Travel,23.0264342,72.6001635,travel_agency,26
+Nescafe,23.0371357,72.5443257,cafe,69
+hotel honey bonney,23.0333487,72.5578806,hotel,78
+Unknown,23.0682694,72.576047,toilets,71
+Adi jati kanya chhatralay- Hostel,23.0683684,72.5767927,hostel,85
+My dentist,23.0084916,72.5611665,dentist,39
+Swaminarayan ,23.0055252,72.5522649,place_of_worship,48
+K.ka.shastri infirmation center,23.0093768,72.5483071,information,27
+TGB,23.005805,72.5552881,fast_food,44
+CNG Adani,23.0135186,72.5644029,fuel,21
+Swaminarayan Temple Bavla,22.8342872,72.366148,place_of_worship,39
+State Bank of India,23.0462917,72.6409003,bank,85
+shilpa medical store,23.047818,72.6371657,pharmacy,39
+Vatva police,22.9718545,72.6275,police,63
+Dena Bank,22.9713508,72.6273272,bank,25
+Manki children store,23.0510386,72.6442794,clothes,89
+Kotak Mahindra Bank,23.0384792,72.5692563,bank,78
+Domino's,23.051025,72.64396,fast_food,67
+TGB,23.0510167,72.64456,fast_food,58
+Spoons n straws,23.0512085,72.643756,fast_food,97
+Unknown,23.0579511,72.6431616,fuel,62
+Cng Petrol pump,23.0523451,72.6319464,fuel,24
+Big Bazaar,23.0147236,72.5975122,supermarket,46
+McDonald's,23.0142097,72.597377,restaurant,36
+Garden Paradise,23.0451788,72.4615643,guest_house,24
+Unknown,23.0411515,72.5194989,furniture,25
+Unknown,23.043024,72.521679,furniture,46
+Subway,23.0464898,72.5294517,restaurant,87
+Unknown,23.0323274,72.5597398,clothes,30
+Unknown,23.0523774,72.5547791,optician,97
+Unknown,23.0020986,72.5980125,bar,91
+my tution,23.0570698,72.5363549,books,74
+ambe mataa mandir,23.0594376,72.5365252,place_of_worship,42
+Jagdamba Sales Corporation,23.0857612,72.6301401,electronics,100
+32 PEARLS Multispeciality Dental Clinic,23.057131,72.549469,dentist,80
+Petrol CNG pump,23.0219685,72.6508243,fuel,83
+vizcare hospital,23.0997272,72.5363217,hospital,53
+ghanshyam o/blok,23.0772851,72.5544064,guest_house,79
+HDFC bank,22.9623509,72.6326626,bank,26
+Aryan's Villa💞,23.0882437,72.584299,pharmacy,63
+Jain Nagar,23.0886047,72.5844263,wine,71
+Esaar petrol pump,23.4921781,72.0319807,fuel,60
+Rubber king tyres p ltd,23.0901293,72.0615012,attraction,83
+Unknown,23.1189995,72.0589383,bench,62
+Hotel Ram Chhapri,23.0437933,72.0369933,hotel,27
+Odhav police station (new building),23.0259396,72.6724978,police,68
+Supratech Voluntary Blood Bank,23.0479402,72.5271143,blood_bank,88
+Ramanand gurukul swastik hall,23.0479045,72.5267206,community_centre,52
+Reliance Smart,23.0475825,72.5265833,supermarket,35
+Unknown,23.0478082,72.5269346,atm,56
+Atithi Dining Hall,23.0381074,72.5138086,restaurant,86
+Bank of Baroda,23.0478572,72.526783,atm,43
+Sunflower Womens Endo Infertility and Hospital Pvt. Ltd.,23.0457576,72.5412888,hospital,41
+little flower,23.0460963,72.533033,hospital,91
+May Flower Womens Hospital Pvt. Ltd.,23.0455774,72.5419051,hospital,59
+sunflower infertility clinic,23.0455615,72.541361,clinic,55
+Viramgam,23.1270255,72.0511173,bus_station,93
+Hotel Sahyog,22.6438487,72.2062332,hotel,63
+CNG Hp petroleum,22.6461786,72.2063059,fuel,94
+Unknown,23.0142393,72.5935884,atm,50
+Divine child circle,23.1221233,72.5825561,attraction,27
+Jamalpur Darwaja,23.0124252,72.581461,attraction,40
+Meghaninagar Char Rasta,23.0544365,72.61801,bus_stop,84
+"F D High School for Girls, Jamalpur",23.0119864,72.5831726,school,48
+DMart,23.0552881,72.6711806,supermarket,76
+"Sabri Kathiyavadi,panjabi",23.0591783,72.6708433,restaurant,83
+D Mart,23.0680121,72.5761383,department_store,30
+Relince Digital,23.0680414,72.5758088,department_store,48
+Arved transcube Plaza,23.0679571,72.5760578,supermarket,27
+Unknown,23.046489,72.5162482,toilets,59
+Hanspura/Dehgam naka police station,23.08872,72.686768,police,96
+AFC Garden Restaurant,23.111054,72.6050699,restaurant,22
+Unknown,23.0469788,72.51561,toilets,83
+cng,23.039025,72.580366,gas,91
+Petrol pump Nava Naroda,23.0797088,72.6678593,fuel,69
+Under ground Parking,23.0681437,72.5761887,parking_space,84
+Kabir Restaurant,23.0795581,72.6690656,restaurant,90
+CNG Bharat petroleum,23.0400891,72.5781297,fuel,53
+Half Ticket,23.0379538,72.5617091,clothes,84
+Liberty Showroom,23.0368527,72.5610186,shoes,72
+Maruti Suzuki NEXA,23.0122697,72.503458,car,71
+Sola,23.057541,72.5435085,attraction,89
+Half ticket,23.0337539,72.5601493,clothes,87
+Bhavsar Hostel,23.06745,72.568993,hostel,62
+SN Collage,23.0283544,72.5148851,college,80
+SN School,23.0281673,72.514922,school,59
+Gurukul,23.0457058,72.5268056,place_of_worship,43
+Zoolta Minara,23.0279863,72.6010094,attraction,63
+Muni Bapu Ashram,23.0148133,72.3829577,place_of_worship,79
+Gujrat Vidhyapeeth,23.0441852,72.5692947,university,85
+Shah E Alam Roza,22.9940973,72.5895788,place_of_worship,62
+Jama Masjid,22.9933887,72.5054614,place_of_worship,90
+science city road,23.0809988,72.4983109,attraction,78
+Asarwa civil post office,23.0500117,72.6072412,post_office,91
+"Kidny hospital , asarwa",23.0494133,72.6074852,hospital,95
+"Gujarat Institute Of Nursing Education And Research , Asarwa ,Ahemedabad",23.0496453,72.6071588,hospital,100
+Government Dental College and Hospital,23.0499136,72.604565,hospital,46
+"Government Dental College ,Ahemedabad",23.0497247,72.6043173,college,24
+"BJ Medical College ,Haripura -Asarwa",23.0524472,72.6027712,college,54
+Unknown,22.9700995,72.6619111,toilets,89
+Unknown,23.0724693,72.3634999,police,76
+Sai baba,23.0887798,72.6500054,place_of_worship,65
+Sant nirankari Ashram,23.0868773,72.6479573,place_of_worship,35
+Maya CINEMA -CLOSED,23.0810593,72.6415185,cinema,64
+Mahlaxmi papad,23.0739761,72.6416185,supermarket,35
+Kubernagar Main market - sindhi market,23.0731757,72.6414355,supermarket,78
+Changodar,22.9402206,72.4567127,place_of_worship,38
+Lambha Mandir,22.9413497,72.5798073,place_of_worship,92
+Bhadra Kali Temple,23.0239807,72.5814992,place_of_worship,29
+Tata Mootrs,22.9923265,72.5366121,car,25
+Vani Hospital & IVF center,22.99465,72.6157541,hospital,29
+"Two-wheeler , Three-wheeler  and cattle  are forbidden on the expressway NE-1",22.9882569,72.6291774,information,61
+arbi,23.030136,72.600163,restaurant,97
+Vani IVF Center,22.994662,72.615422,hospital,52
+West Cost pharma,23.087526,72.536757,pharmacy,22
+Raghunath Party Plot,23.0407768,72.5065027,community_centre,57
+GCS Medical college,23.038409,72.611136,school,46
+Cooking Culture,23.035392,72.5065,restaurant,97
+Unknown,23.044384,72.657885,hospital,22
+Prl thaltz hostel,23.0435976,72.4929192,hostel,98
+Saijpur post office,23.0592677,72.6375916,post_office,46
+Unknown,23.0072825,72.5386698,place_of_worship,24
+Unknown,23.0357335,72.4669988,school,42
+Aalisha Clinic,23.0858856,72.5638235,hospital,84
+BalMukund Hospital,23.0932069,72.5592841,hospital,72
+South Bopal,23.021803,72.4747707,car_wash,83
+readymadepocket,23.0277198,72.5880275,clothes,94
+Chandlodiya Temple,23.0838579,72.5530656,place_of_worship,77
+S G Hospital Chandlodiya,23.0848906,72.5512244,hospital,69
+HANDI HOTEL,23.0659846,72.5827993,restaurant,49
+HARSHAL PUBLICATION,23.0228851,72.5718995,books,30
+Little Italy,23.0324134,72.5082222,restaurant,71
+Unknown,22.9947074,72.607567,beverages,24
+Krsna Lila,23.0288104,72.3001469,hotel,77
+Jethabhai Parmar Garden Fountain,23.0491143,72.600946,fountain,29
+Satva Vikas School,23.0415757,72.4959141,school,32
+Tandoorworkz,23.0199957,72.5580704,restaurant,21
+State Bank Of India,23.0353395,72.5429261,atm,40
+Annapurna,22.9818481,72.6317943,restaurant,44
+Gayatri,22.9811933,72.6319432,restaurant,23
+Royal Pride,22.9815706,72.6329291,restaurant,80
+Mahadev Temple,22.9853608,72.6321146,place_of_worship,52
+Chamunda Mata Temple,22.9861602,72.6310124,place_of_worship,62
+Saibaba Temple,22.9866323,72.6300604,place_of_worship,93
+Butterfly Park,23.0042377,72.5985306,theme_park,40
+Mahadev Temple,22.9831015,72.6248105,place_of_worship,29
+Temple,22.9849403,72.6295687,place_of_worship,97
+Gujarat university police station,23.0347446,72.5405988,police,26
+Planet Women Fertility and Counseling,23.0249306,72.5434079,hospital,37
+Ashapura Industrial Estate,22.968738,72.6513756,attraction,57
+Evergreen Hotel,22.9742764,72.5865341,hotel,85
+Shree hari fiber product p ltd,23.0288903,72.6821044,attraction,23
+Unknown,23.0687153,72.5807241,restaurant,25
+Mottotech industries,22.9686617,72.6513022,attraction,44
+Swastic Center,22.9718583,72.5885636,attraction,49
+Anupam estate,23.0155534,72.6351968,attraction,60
+"Payload Electronics Lab, Physical Research Laboratory",23.0442577,72.4954264,electronics,44
+National Company Law Tribunal (NCLT) Ahmedabad Bench,23.0550088,72.5167339,courthouse,79
+nilam snacks,23.0550362,72.5398877,fast_food,56
+Art book center specialist in books on indian culture,23.0216194,72.5686718,books,28
+c point furniture,23.0507889,72.6634833,furniture,41
+Unknown,23.0216703,72.5710114,mobile_phone,76
+Tan-man bhaji pav,23.0071778,72.6638136,fast_food,63
+VIVEKANAND VIDYALAYA,23.0094986,72.6362813,school,91
+Unknown,23.072579,72.5539414,bank,58
+Havmor Ice Creams,23.0174138,72.4756688,ice_cream,83
+Upper Crest,23.0168753,72.4703195,restaurant,88
+Bata,23.0174711,72.4755677,shoes,30
+ICICI Bank,23.0176502,72.4754529,atm,76
+HDFC Bank,23.0172484,72.4758126,atm,72
+Axis Bank,23.017059,72.4760216,atm,81
+Lalbhai Dalpatbhai Museum,23.0331715,72.5498983,museum,32
+NC Mehta Gallery,23.0332721,72.5498679,museum,48
+Excel Eye Care,23.0300762,72.5287891,hospital,34
+Unknown,23.0257545,72.5251753,atm,45
+Mahasagar travels ltd,23.0256216,72.5252741,travel_agency,51
+Neeta travels,23.0257415,72.5253435,travel_agency,94
+Ramani travels,23.026132,72.5253774,travel_agency,35
+Gujarat travels,23.0261084,72.5256239,travel_agency,45
+Shivam X-ray & Sonography clinic,23.0576222,72.5700771,hospital,53
+Sarveshwar Mahadev Temple,23.0748674,72.5784767,place_of_worship,67
+D Mart,23.0681594,72.5759446,supermarket,99
+State Bank of India,23.0804261,72.5744422,bank,61
+Ranip Vegetable market,23.0796845,72.574545,greengrocer,44
+Maganpura Police Chowki,23.0805194,72.5785719,police,60
+Khodiyar Temple,23.0765706,72.5776658,place_of_worship,84
+Unknown,23.0708588,72.5768807,atm,85
+Unknown,23.0707904,72.576858,atm,47
+PVR Cinemas,23.068497,72.5760108,theatre,51
+Unknown,23.0794785,72.5709062,atm,88
+Unknown,23.0798606,72.5687465,atm,90
+Unknown,23.0721014,72.5675918,atm,67
+Unknown,23.0786893,72.5782479,atm,85
+Unknown,23.07632,72.5670756,atm,22
+Unknown,23.0677939,72.5725289,atm,28
+havmor,23.0422888,72.5486106,yes,54
+Subway,23.0422816,72.549183,fast_food,66
+Fullfills Ahmedabad,23.042429,72.5486687,cafe,77
+quinches,23.0416337,72.5490709,cafe,72
+uno pizza,23.042389,72.5492178,cafe,59
+tea stall,23.042429,72.5486687,yes,80
+Unknown,23.037011,72.5503603,artwork,51
+Bharat Petroleum,23.076537,72.5234735,fuel,24
+Mini kankriya,23.0759227,72.6577557,attraction,62
+Vasavda Community Centre,22.9998912,72.6193457,community_centre,38
+ESIS HOSPITAL,22.9991685,72.6166652,hospital,42
+Rukshmani Hospital,22.9992751,72.6193052,hospital,78
+TGB,23.0399675,72.5549838,bakery,32
+The Cafe Baraco,23.0444534,72.5505062,cafe,70
+Talavadi Circle,23.0815908,72.6163635,attraction,75
+Om shanti,23.0873143,72.6192277,place_of_worship,70
+Dutch and Armenian Tombs,23.0057035,72.5975871,grave_yard,76
+readymadepocket,23.0277361,72.5880236,clothes,21
+Iscon Ghantiya,23.0398379,72.5276503,fast_food,100
+Kalpyan Pushti Haveli,23.0384308,72.5306552,place_of_worship,50
+Vijay Sales,23.045838,72.5299101,supermarket,24
+Shades of Black Spalon,23.0440516,72.5297042,hairdresser,62
+Chintamani Parshwanath Mandir,23.1792586,71.9793722,place_of_worship,27
+H1 Boys hostel,23.1266251,72.5448028,hostel,24
+Management Mess,23.1270148,72.5456021,food_court,66
+F1 Pharma Canteen,23.1283124,72.5473147,food_court,22
+NIM Auditorium,23.1287897,72.5463512,music_school,88
+New Parking,23.1289599,72.5442698,parking,58
+Kalupur Cooperative Commercial BANK,23.1282051,72.5439614,bank,32
+Hotel Purohit Por,22.9945198,72.665834,restaurant,92
+Manipur Government School,23.0332883,72.429408,school,68
+ANU Fellows University Hostel,23.0232777,72.4122274,hostel,45
+Anant National University,23.0308404,72.4271753,university,59
+Leelapur Bharot Community Ground,23.1468201,72.5132418,community_centre,82
+Amrita Vidyalayam,23.0675829,72.5371239,school,44
+Anant National University Gate,23.0308439,72.4271652,university,71
+Sanskardham School Hostel,23.0290226,72.4279103,hostel,58
+TKB cake shop,23.0303355,72.4740109,deli,98
+Sanskardham Primary School,23.0306687,72.4274117,school,68
+Anant National University College Building,23.027625,72.4259889,college,67
+Sanskardham open parking,23.0307786,72.427885,parking,36
+Havmor restaurant,23.0287895,72.4775187,restaurant,42
+Charbhuja Mandir,23.0060333,72.7511315,place_of_worship,36
+SoBo Centre,23.0174425,72.4751813,mall,90
+D Mart,23.0283451,72.4784116,yes,90
+Unknown,23.128095,72.5415659,parking_entrance,72
+Ramada,23.0106115,72.5048495,hotel,20
+Sphere Louge,23.0108416,72.5048519,bar,81
+होटल मीरेकल,23.0149614,72.5951405,hotel,61
+Villa Shodhan,23.0249328,72.5673622,attraction,61
+Seva Cafe,23.0346667,72.5603703,cafe,73
+CNG gas station,23.0846729,72.6862592,fuel,64
+Arvind aircon ltd,22.9642542,72.6506601,attraction,96
+Unknown,23.002931,72.6008606,toilets,93
+Lilamani flats,23.0876752,72.6229239,apartment,91
+CNG stattion,22.9359318,72.49878,fuel,68
+Unknown,23.0103272,72.599595,bench,42
+Unknown,23.0103076,72.5995736,bench,64
+Unknown,23.0102879,72.5995477,bench,50
+Unknown,23.0102741,72.5995245,bench,87
+Unknown,23.0102545,72.5995031,bench,24
+Unknown,23.0102348,72.5994773,bench,75
+Unknown,23.0102219,72.5994528,bench,58
+Unknown,23.0102023,72.5994314,bench,75
+Unknown,23.0101827,72.5994055,bench,45
+Unknown,23.0101682,72.5993824,bench,77
+Unknown,23.0101483,72.5993586,bench,51
+Unknown,23.0101672,72.5993405,bench,26
+Unknown,23.0101879,72.5993252,bench,92
+Unknown,23.0102068,72.5993071,bench,71
+Unknown,23.0102228,72.599292,bench,30
+Unknown,23.0102417,72.5992739,bench,70
+Unknown,23.0102589,72.5992612,bench,82
+Unknown,23.0102778,72.599243,bench,72
+Unknown,23.0102962,72.5992307,bench,79
+Unknown,23.0103151,72.5992125,bench,27
+Unknown,23.0104981,72.5995005,bench,85
+Unknown,23.0105173,72.5994827,bench,91
+Unknown,23.0104795,72.5995125,bench,68
+Unknown,23.0104603,72.5995303,bench,63
+Unknown,23.0104429,72.5995427,bench,91
+Unknown,23.0104237,72.5995605,bench,38
+Unknown,23.0104075,72.5995752,bench,45
+Unknown,23.0103883,72.599593,bench,65
+Unknown,23.0103674,72.5996079,bench,38
+Unknown,23.0103483,72.5996257,bench,43
+Unknown,23.0408636,72.56393,parking,83
+Giant Fish Statues,23.0311883,72.5056289,artwork,46
+Giant Mushrooms Installation,23.0313754,72.5056844,artwork,69
+Amul Parlor,23.0321809,72.5052786,ice_cream,34
+Mini Treehouse,23.0317497,72.5067751,artwork,82
+Unknown,23.0313327,72.5058567,bench,67
+Unknown,23.031507,72.5057116,bench,64
+Unknown,23.0316438,72.505731,bench,58
+Unknown,23.0317622,72.5057662,bench,88
+Unknown,23.031976,72.5055364,bench,68
+Unknown,23.0324926,72.5056035,bench,80
+Unknown,23.032581,72.5063936,bench,56
+Unknown,23.0323067,72.5067014,bench,57
+Unknown,23.0321079,72.5066866,bench,41
+Unknown,23.0320256,72.5067455,bench,60
+Unknown,23.0318992,72.5068089,bench,67
+Unknown,23.0318131,72.5067645,bench,74
+Unknown,23.0316231,72.5064584,bench,60
+Unknown,23.0318136,72.5063733,bench,92
+Unknown,23.0318682,72.506175,bench,41
+Unknown,23.0318206,72.5059863,bench,99
+Unknown,23.0324615,72.5055774,waste_basket,32
+Unknown,23.0317985,72.5057292,waste_basket,30
+Unknown,23.0322473,72.5072751,waste_basket,60
+Flower Power,23.0328525,72.5056687,artwork,47
+Unknown,23.0243223,72.5312743,bench,53
+Unknown,23.0243225,72.5312824,bench,43
+Unknown,23.0243222,72.5312899,bench,71
+Unknown,23.0243223,72.5312973,bench,37
+Unknown,23.0243222,72.5313052,bench,27
+Unknown,23.0243227,72.531313,bench,35
+Unknown,23.0243223,72.5312531,bench,29
+Unknown,23.0243222,72.5312612,bench,55
+Unknown,23.0243222,72.5312686,bench,36
+Unknown,23.0242854,72.5312616,bench,39
+Unknown,23.0246306,72.5300717,bench,65
+Unknown,23.0242853,72.5312771,bench,46
+Unknown,23.0242854,72.5312828,bench,58
+Unknown,23.0242856,72.5312909,bench,76
+Unknown,23.0242853,72.5312984,bench,70
+Unknown,23.0242854,72.5313058,bench,71
+Unknown,23.0242853,72.5313137,bench,65
+Unknown,23.0242858,72.5313215,bench,53
+Unknown,23.0243007,72.531153,vending_machine,96
+Unknown,23.0243133,72.5314306,vending_machine,45
+Unknown,23.0752004,72.6205629,attraction,92
+Jalaram Parotha House,23.0178297,72.567758,hotel,75
+Unlocked,23.033026,72.5577346,cafe,36
+Kailash Raj,23.0809556,72.64732,apartment,56
+Cafe udipi richi,23.0320819,72.5600295,cafe,59
+Cng and petrol pump,23.0289447,72.6734332,fuel,60
+Hotel Emerland,23.0742871,72.6506214,restaurant,52
+Unknown,23.0129555,72.5059562,shelter,43
+Unknown,23.0135974,72.5062922,shelter,97
+Unknown,23.0132004,72.5060211,fountain,34
+Bird Feeder,23.0130387,72.5064956,artwork,96
+Funny art,23.0128431,72.5065295,artwork,97
+Amul,23.0128218,72.5066003,ice_cream,97
+In-Garden Cafe,23.0122064,72.5062163,cafe,70
+Shopping ahemadabad,23.0004179,72.6002491,clothes,31
+Prerna Tirth Derasar,23.0214082,72.5198974,place_of_worship,59
+Sanmani Restaurant,23.0236978,72.5995018,restaurant,52
+Hirnya Complex,23.0362851,72.5260491,apartment,43
+Shree Sanket Vijay Variya Jain Bhawan,23.0213326,72.5201663,apartment,83
+Takshshila Food Court,23.0275402,72.559229,restaurant,72
+Jai Jalaram Parontha House,23.0246356,72.5714777,restaurant,24
+Unknown,23.0140063,72.5658082,fuel,35
+Unknown,23.0331551,72.5783117,convenience,69
+Udipi Cafe,23.0144058,72.565418,cafe,40
+Kankaria Telephone exchange,23.0024253,72.5928352,bus_station,47
+State Bank of India,23.0262784,72.482714,bank,52
+The Haqq Factory Store,22.9868059,72.4820619,supermarket,52
+The Mill Owner's Building of Le Corbusier,23.0326231,72.5709891,attraction,33
+Ranip Police Station,23.0806075,72.5779962,police,67
+Gita Medical Stores,23.0795537,72.5744221,pharmacy,83
+चिराग़ जवेल्लर्स,22.9950238,72.6126258,jewelry,79
+Tirth,23.0850287,72.5941932,apartment,30
+Ghuma BRTS terminal,23.0309359,72.4483279,bus_station,73
+ATM HDFC Bank,23.0317286,72.4580324,atm,39
+AMTS Ghuma Bus terminal,23.030556,72.4501878,bus_station,39
+Car Wash,23.0315698,72.4318806,car_wash,30
+Josh chemical,23.1006552,72.6827003,attraction,30
+Indian oil CNG n Petrol,23.0292807,72.4750283,fuel,93
+Jalaram Parotha house,23.0284866,72.4766561,restaurant,53
+Suvidhinath,22.9999525,72.5637176,apartment,46
+Radisson Blu,23.0232906,72.5572097,hotel,45
+Just Dial,23.0257057,72.553931,apartment,46
+Approch media,23.0321052,72.5613307,apartment,64
+Hyatt Vastrapore Lake,23.0391529,72.530495,hotel,47
+NSIC,23.0410663,72.5680038,attraction,74
+Shrinath Estate,22.9667708,72.5840823,artwork,58
+Bhoomi Textile,22.9678866,72.5834326,clothes,55
+Hotel King Palace,23.0639876,72.5813581,hotel,34
+Chicken biryani,23.0169709,72.5835893,restaurant,54
+K.G.N. Chinese Fry Centre,23.0197975,72.5838568,restaurant,86
+Indusland Bank,22.9950448,72.6022845,bank,96
+Unknown,22.9950529,72.6022554,atm,72
+Aarna Hospital,22.995052,72.6023157,hospital,40
+Solitaire Car Studio,23.0347103,72.5003763,car_wash,84
+Archer Art Gallery,23.0416175,72.5517858,gallery,61
+K R SONS,23.0260246,72.5235517,jewelry,88
+Tokyo Ryokan pvt. Ltd.,23.3359577,72.054779,hotel,58
+Creamy Treats,23.1063256,72.5968772,ice_cream,25
+Tokyo ryokan,23.3197281,72.0538441,hotel,82
+Kameshwar School,23.0282166,72.5271318,school,33
+cabana lounge,23.0355672,72.5061396,cafe,40
+Vaishali bopp tape,22.8938783,72.4540453,artwork,57
+Super packers bopp tape trades,23.0123457,72.6220271,artwork,39
+Carmel Cluster,23.113657,72.551666,apartment,59
+AMUL store,23.1262799,72.5392037,yes,27
+SBI,23.0132724,72.5298603,bank,70
+Bank of Baroda,23.013352,72.5298603,bank,58
+Murlidhar,23.013976,72.5296525,beverages,39
+cafe13,23.0133426,72.529945,beverages,65
+Himalaya Bakery,22.9798046,72.5737246,fast_food,78
+Noor Mobile Shop,22.9789749,72.5719973,yes,76
+Ahad mobile repair,22.9787675,72.5716124,yes,41
+Pakiza Pan Parlour,22.9785959,72.570559,yes,90
+Chand bakery,22.9795173,72.5734667,bakery,93
+The Gujarat Cancer & Research Institute Blood Bank,23.0509351,72.6072747,blood_bank,92
+Institute of Kidney Disease and Research Centre's Blood Bank,23.0499936,72.6017466,blood_bank,81
+"Civil Hospital Blood Bank, Ahmedabad",23.0521851,72.6039473,blood_bank,84
+Cross World Voluntary Blood Bank,23.0472552,72.5622377,blood_bank,37
+"Gujarat Blood Bank, Naranpura",23.0553948,72.5601871,blood_bank,93
+Sterling Hospital's Blood Bank,23.0488693,72.5313574,blood_bank,53
+Prathama Blood Centre,23.0062053,72.5417885,blood_bank,34
+Dr. Jivraj Mehta Smarak Health Foundation Blood Bank,23.0086532,72.5432986,blood_bank,35
+V. S. Hospital Blood Bank,23.0193231,72.570869,blood_bank,43
+"Gujarat Blood Bank, Paldi",23.0165347,72.5663817,blood_bank,42
+"Indian Red Cross Society Blood Bank, Ahmedabad",23.012315,72.5579515,blood_bank,63
+"General Hospital Blood Bank, Sola",23.0829395,72.5247699,blood_bank,97
+Maha Gujarat Blood Bank,22.9975368,72.6024306,blood_bank,77
+L. G. Hospital Blood Bank,22.9995614,72.6050511,blood_bank,46
+Help Voluntary Blood Bank,23.0001213,72.6047862,blood_bank,26
+GUJARAT CANCER MEDICAL COLLEGE's Blood Bank,23.0391891,72.6105738,blood_bank,47
+Smt. Shardaben Hospital Blood Bank,23.0330048,72.6107548,blood_bank,82
+Adarsh Pathology Laboratory and Blood Bank,23.0377242,72.6301351,blood_bank,73
+"White Cross Blood Bank, Naroda",23.065027,72.6426664,blood_bank,77
+"General Hospital Blood Bank, Ahmedabad",23.0280519,72.6237971,blood_bank,40
+Visa Hanuman,23.0228973,72.5937955,place_of_worship,77
+"Military Hospital Blood Bank, Ahmedabad",23.0571162,72.6120248,blood_bank,40
+Moinuddin Chisti Mosque,23.0601961,72.5883445,place_of_worship,41
+"Samarpan General Hospital, Ahmedabad",23.1053006,72.5254109,hospital,24
+Shree Bharti Vallabh Hospital,23.0495869,72.5928806,hospital,69
+"Kasturba Hospital, Ahmedabad",22.3812599,71.9763587,hospital,84
+"Kunal Medical Hospital, Ahmedabad",22.9982535,72.6250631,hospital,59
+Ortho Kids Clinic,23.018609,72.5297897,clinic,61
+Nandan Maternity Home,23.052184,72.5339005,hospital,39
+"Kalrav Children Hospital, Ahmedabad",23.0501988,72.5374953,hospital,49
+Cornea Foundation Hospital,23.0461279,72.5364487,hospital,87
+Prathna Surgical And Medical Hospital,23.056598,72.6411603,hospital,58
+Arihant Fracture and Orthopedic Hospital,23.0133094,72.545561,hospital,61
+Chandrabhan Hospital and Gynac Institute,23.0499504,72.5338505,hospital,56
+"Jeevandeep Hospital, Sardanagar",23.0856728,72.6335469,hospital,74
+"Jagmohan Hospital, Ahmedabad",23.0383141,72.567755,hospital,56
+Vasudha Eye Hospital,23.0834466,72.5895064,hospital,66
+"Dhwani General Hospital, Nursing Home and Materity Home",23.0146498,72.6448899,hospital,51
+Kakadiya Hospital,23.0401061,72.6302853,hospital,85
+Samarpan Maternity And Urosurgical Hospital,23.0506982,72.5157067,hospital,35
+"Sankalp Eye Hospital, Ahmedabad",23.0052925,72.5372402,hospital,67
+Suvan Eye Care,23.0577024,72.6369452,hospital,63
+Matrupooja Eye Hospital,22.9745791,72.6024091,hospital,92
+Shaishav Children Hospital And Neonatal Care Unit,23.0034352,72.5187524,hospital,97
+"Mehta Hospital, Siddhachal",23.047633,72.5258862,hospital,55
+Lifecare Emergency Centre,23.0333194,72.5789867,hospital,39
+Bavishi Hospital,23.0133482,72.5641099,hospital,63
+Poojan Children Hospital And Neonatal Care Centre,23.072936,72.5591491,hospital,34
+Shanti Multi Speciality Hospital,23.0241738,72.5295308,hospital,58
+Cutis Cosmetic Plastic Surgery Centre,23.0589018,72.537851,hospital,76
+Rathi Hospital,23.0228001,72.5261003,hospital,38
+Minal Infertility Clinic and Nursing Home,23.0519495,72.5608003,hospital,68
+"Raj Nursing Home, Ahmedabad",23.0524295,72.6002191,clinic,55
+Navkar Surgical Hospital,23.0486991,72.5665131,hospital,90
+"Navjyot Eye Hospital, Ahmedabad",23.0575049,72.5703567,hospital,87
+Aarna Super Speciality Hospital,23.014477,72.5597177,hospital,38
+"Shalin Hospital, Ahmedabad",23.0130378,72.5456992,hospital,21
+Talsania Clinic,23.0178468,72.5582948,clinic,75
+Samata Hospital Pvt.Ltd,23.0827039,72.5469075,hospital,66
+"Community Health Centre, Singarva",23.0252575,72.6897398,clinic,34
+Amijeet Maternity Hospital,23.0731324,72.5595813,hospital,46
+Shreeji Orthopaedic And Ent Hospital,23.0471787,72.5333127,hospital,48
+Anand Hospital and Multispeciality,23.0459742,72.6406024,hospital,26
+Shivam Orthopaedic and Gynec Hospital,23.0363111,72.5325295,hospital,22
+Satyam Children Hospital,23.1148697,72.5838657,hospital,32
+Kadam Maternity Home and Sonography Clinic,23.0061658,72.5959302,clinic,62
+Aakshardeep Eye Hospital,23.0324778,72.5245567,hospital,94
+"Maruti Orthopedic Hospital, Nava Vadaj",23.0674244,72.5611098,hospital,78
+Chetna Maternity Home,23.0467529,72.5695668,hospital,52
+"Akshardeep Orthopaedic Hospital, Shahibaug",23.0539474,72.5955185,hospital,77
+Tapan Hospital Pvt Ltd,23.0360347,72.6297381,hospital,34
+Udit Hospital Multi Speciality,23.0502539,72.5209209,hospital,24
+Saumya Children Hospital and Neonatal Care Center,23.0217867,72.5420675,hospital,34
+Life Care Institute Of Medical Sciences Research Hospital,23.0474527,72.5616422,hospital,82
+Vanza Hospital,23.0307499,72.4740118,hospital,68
+Niyati Ent Hospital,23.0201192,72.5615162,hospital,79
+"Metalia Hospital and ICCU, Diamond Market",23.0361821,72.6297938,hospital,72
+Chitrakut Surgical Hospital,23.0352325,72.6254641,hospital,98
+Jivansudha Heart and Medical Hospital,23.0487003,72.6059912,hospital,64
+Marengo CIMS Hospital,23.0700266,72.5173965,hospital,32
+Sneh Orthopaedic Hospital,23.0024291,72.5542313,hospital,88
+Dr Sanjay Gandhi Hospital,23.02741,72.5411409,hospital,94
+Om Pediatric and Neonatal Criticare Hospital,23.0997283,72.5914751,hospital,53
+Priyal Hospital,23.0605503,72.6644231,hospital,49
+"Anand Multi Speciality Hospital, Ahmedabad",23.0551196,72.5975604,hospital,46
+Dr Rupesh Shah Killol Children Hospital,23.0396088,72.5659485,hospital,96
+Kalyani Nursing Home and Sonography Clinic,23.1022078,72.571388,clinic,46
+"Jeevandeep Hospital, Shashibaug",23.0494136,72.5906771,hospital,74
+Naresh Hospital,23.0034167,72.518633,hospital,43
+"Shraddha Surgical Hospital, Ahmedabad",23.0482276,72.5333825,hospital,25
+Baps Yogiji Maharaj Hospital,23.0462013,72.5887862,hospital,52
+Gynaecare Women's Hospital,23.0134377,72.5265187,hospital,95
+Rhythm Cardio Pulmonory Care Centre and Medical Hospital,23.0521189,72.5608045,hospital,32
+Aarti Surgical Nursing Home,22.9960097,72.6121724,hospital,94
+Navkar Ear Nose Throat Hospital,23.0083964,72.561315,hospital,100
+Gitanjali Children Hospital,23.0738176,72.6595862,hospital,65
+Shilp E.N.T Clinic and Hospital,23.1089581,72.5930405,hospital,21
+Shreeji Children Hospital,23.0294544,72.4747232,hospital,70
+Shivam Surgical Hospital,23.0730267,72.6528769,hospital,94
+Parimal Multispeciality Hospital,23.0172667,72.5577027,hospital,57
+Netra Jyoti Eye and Ent Hospital,23.1093376,72.588505,hospital,57
+Shrey Hospital,23.0376566,72.5647707,hospital,78
+Apex Heart Institute,23.0457442,72.5139306,hospital,41
+Het Eye Care,23.0085551,72.5625072,hospital,30
+"Utkarsh Hospital, Ahmedabad",23.1078991,72.5783663,hospital,89
+Hemato-Oncology Clinic,23.0402628,72.5598451,clinic,31
+"Tilak Hospital (Multispeciality), Ahmedabad",23.0334255,72.6222763,hospital,91
+"Sagar Orthopaedic Hospital, Bapunagar",23.0362408,72.630339,hospital,48
+Kalrav Nenotal And Children Hospital,23.0389968,72.6365779,hospital,29
+"Savalia Hospital, (Dr. Anjana J Savalia)",23.0333438,72.6377883,doctors,100
+Hina Maternity Nursing Home,23.056809,72.5450407,clinic,92
+Panchshil Hospital,23.0843348,72.5919754,hospital,93
+Smruti Eye Hospital,23.0395468,72.6302717,clinic,75
+Welcare Women's Hospital,23.0453225,72.5623058,hospital,26
+Shivam Eye Hospital,22.9994009,72.6359743,clinic,35
+Arpan Newborncare Centre,23.0411016,72.5474321,hospital,66
+Sheth Hospital and Maternity Home,23.0023106,72.554928,hospital,55
+Shubham Ent Hospital,23.0217991,72.645708,hospital,99
+Chhaya Maternity Nursing Home,22.9798599,72.599806,clinic,73
+Mangeet Medical Nursing Home and Heart Care,23.0187491,72.5542206,clinic,98
+Vasundhara Medical Hospital,23.0348264,72.6252736,hospital,74
+Shridhaj Orthopaedic Hospital,23.0057708,72.5330586,hospital,84
+Clear Vision Eye Hospital (Unit 2),23.026235,72.5252219,hospital,21
+"Jatan Children Hospital, Ahmedabad",23.0664632,72.5628076,hospital,57
+Pulse Iccu and Hospital,23.0604581,72.566667,hospital,67
+Dr. Kaushik Vaidhya Medical Nursing Home,23.0567189,72.5449233,clinic,76
+"Shree Raj Hospital, Ahmedabad",23.0461853,72.5326094,hospital,39
+Lekhadia Hospital,23.0042154,72.5557615,hospital,28
+Odhav Orthopaedic Hospital,23.0123687,72.6450308,hospital,22
+Royal Maternity and Nursing Home,23.0306956,72.4726787,clinic,44
+Ami-Sagar Hospital,23.0686632,72.5667344,hospital,36
+Amijyot Eye Hospital,23.0074188,72.5589721,hospital,59
+Khara Fracture and Orthopaedic Hospital,23.0826952,72.5887057,hospital,99
+Dr. Dilip Modi Hospital,23.0285678,72.5714216,hospital,57
+Ratnam Eye Hospital,23.0082903,72.5595085,hospital,84
+Navjivan Orthopaedic and Maternity Hospital,23.0536919,72.6427073,hospital,44
+"Akshar Surgical Hospital, Maninagar",22.9950715,72.6075442,hospital,46
+Synergy Neonatal and Pediatric Centre,22.9957344,72.6082537,hospital,88
+Anand Surgical Hospital Ltd.,23.0549888,72.630925,hospital,86
+Navneet Memorial Hospital,23.0309628,72.561022,hospital,62
+Chandandwar Hospital,23.0475378,72.5265107,hospital,99
+Jhanvi Fracture and Orthopaedic Hospital,22.988069,72.6053086,hospital,86
+Chandramani Hospital,23.0488268,72.5948212,hospital,37
+Chaturbhai Mavawala Kidney Hospital and Laparoscopic,23.0366258,72.5699088,hospital,74
+Abhishek Hospital and Heart Centre,22.9995355,72.6079452,hospital,84
+Dr.Atul Shah Eye Hospital,23.061092,72.535484,hospital,43
+Gandhi Uro Care,23.0165285,72.5663348,hospital,79
+Dhwani Children Hospital,23.0222866,72.5941667,hospital,72
+Umiya Surgical Hospital,23.059151,72.5507015,hospital,92
+Sannidhya Hospital,23.0183023,72.5626011,hospital,44
+"Jankalyan Hospital, Ahmedabad",23.0013354,72.5905041,hospital,39
+Dhruv Health Care,22.9925296,72.6318021,clinic,89
+Livewell Pain & Spine Hospital,23.0456264,72.5420791,hospital,70
+Tulip Women's Hospital,23.020171,72.5189468,hospital,94
+Matulya ENT Clinic,23.0200451,72.5298192,clinic,55
+"Parimal Hospital, Ahmedabad",22.9997731,72.6090623,hospital,49
+Jyoti Maternity Hospital,23.0221879,72.5385243,hospital,74
+"Centre For Sight, Ahmedabad",23.0328801,72.5554597,hospital,89
+Jyoti Eye Hospital- Phaco Laser Centre,23.0121836,72.5589976,hospital,40
+Dr Ajay Praful Munshi Surgical Nursing Home,23.0012243,72.5601871,hospital,50
+Ratan Hospital,23.000933,72.595249,hospital,88
+"Pooja Hospital, Ahmedabad",23.0562136,72.6207709,hospital,65
+Shilp Orthopaedics And Trauma Centre,22.9830966,72.6028711,hospital,54
+Shashvat Child Care,22.9910938,72.6174791,clinic,72
+Sardar Hosital,22.9990899,72.6009165,hospital,62
+Clear Vision Eye Hospital (Unit 3),23.0001972,72.6048513,hospital,99
+Riddhi Medical Nursing Home,22.993832,72.6037985,clinic,92
+Kothari Onco Surgical Hospital,22.9961937,72.6038629,hospital,55
+Nilkanth Hospital,22.9914752,72.611707,hospital,97
+Ansuya General Hospital,22.9906258,72.6125311,hospital,77
+"Aastha Hospital, Ahmedabad",22.9979479,72.6109077,hospital,70
+Ahmedabad Medical Centre,22.9957122,72.6118974,hospital,99
+Dr Sunil Shah's Eye Hospital,22.9968677,72.6037475,hospital,52
+"Kamal Hospital, Ahmedabad",22.9947147,72.6119833,hospital,96
+Manoramya Children Hospital and Neonatal Centre,22.9956326,72.6039098,hospital,85
+Lavingia Orthopedic Hospital,22.9922814,72.6059188,hospital,49
+"Nidhi Eye Hospital, Ahmedabad",23.061941,72.5518066,hospital,40
+Modi Eye Care,23.0578438,72.5497999,clinic,43
+"Panchal Urology Centre, Ahmedabad",23.0437233,72.5501624,hospital,30
+Hari Urosurgical Hospital and Andrology Centre,23.0381253,72.5591853,hospital,59
+Usha - Deep Hospital and Nursing Home,23.0522086,72.5598143,hospital,52
+Bhavasar Eye Hospital and Maternity Nursing Home,23.0086507,72.5485202,hospital,70
+Devi Hospital,23.0559588,72.5397232,hospital,44
+Shruti Maternity and Surgical Nursing Home,23.0566239,72.5448717,clinic,58
+Kaizen Hospital,23.0469757,72.5436849,hospital,25
+Milan Orthopaedic and Fracture Hospital,23.0462186,72.5338653,hospital,45
+Aroma Womens Hospital,23.0544607,72.53364,hospital,41
+"Jain Hospital And Icu, Ahmedabad",23.0470491,72.533298,hospital,36
+Shreekrishna Hospital and Health Care Centre,23.0583588,72.533251,hospital,55
+Raghudeep Eye Clinic,23.0469763,72.5276975,clinic,38
+P.N.Desai Eye Hospital,23.0497418,72.531753,hospital,42
+"Jaydeep Hospital, Ahmedabad",23.0474249,72.5505593,hospital,96
+Sharda Eye Hospital Phaco And Laser Centre - Ahmedabad,23.0500997,72.5338753,hospital,73
+Shantnam Eye Care Hospital,23.0456349,72.5419961,hospital,25
+Smruti Fracture Orthopedic Hospital,23.0463111,72.5345345,hospital,95
+Rajvee Ortho Spine and Child Neuro Hospital,23.0455787,72.5418225,hospital,72
+Kidney And Urology Hospital,23.0492285,72.5334294,hospital,63
+"Neil Hospital, Ahmedabad",23.0529941,72.5305755,hospital,40
+Surveen Children Hospital And Vaccination Centre,23.0553553,72.5209102,hospital,66
+Avataran Eye Hospital and Oculoplasty Clinic,23.0371812,72.522199,hospital,28
+Akshay Heart and Medical Hospital,23.0311411,72.5271638,hospital,100
+Samdev Urology and Surgery Clinic,23.0402999,72.5583807,clinic,46
+Nova Pulse Ivf Clinic Ahmedabad Pvt.Ltd.,23.0385165,72.5585751,clinic,98
+"Aalok Hospital, Ahmedabad",23.0481314,72.5716656,hospital,65
+Dr. Manish Ravals Hospital,23.0542867,72.5720197,hospital,54
+Harsh Neurosurgical Hospital,23.0541596,72.5720304,hospital,87
+Bodycare Orthopaedic and Trauma Hospital,23.0542275,72.5720505,hospital,59
+"Shalin Eyecare Hospital, Ahmedabad",23.0472984,72.5622028,hospital,84
+"Devasya Kidney and Multi speciality Hospital, Ahmedabad",23.0575728,72.5703634,hospital,99
+Manshi Multispeciality Hospital,23.0670629,72.5621612,hospital,68
+"Vardan Eye Hospital, Ahmedabad",23.0728484,72.5590418,hospital,83
+"Kumud Heart Hospital and Medical Nursing Home, Ahmedabad",23.0606194,72.5578952,hospital,75
+Matruchhaya Children Hospital,23.0584236,72.5594985,hospital,37
+Neo Children Hospital,23.0643212,72.5500202,hospital,32
+"Aastha Orthopaedic Hospital, Ahmedabad",23.0296366,72.4742572,hospital,42
+Aarambh Heart and Medical Hospital,23.0591455,72.5558715,hospital,31
+Sanghvi Hospital,23.0584884,72.5554725,hospital,95
+Riddhi Maternity Home,23.0584551,72.5555255,hospital,60
+Pruthvi Medical Nursing Home and Heart Centre,23.0477513,72.5626641,clinic,42
+Lady Care Womens Hospital Child Care,23.0538437,72.5476894,hospital,58
+Ankur Superspeciality Hospital,23.0585304,72.5562523,hospital,98
+Kirenben Maternity And Nursing Home,23.02251,72.5117853,clinic,74
+Parth Maternity and Medical Nursing Home,23.0542201,72.6429051,clinic,100
+Jeel Children Hospital And Neonatal and Vaccination Center,23.0549308,72.6008186,hospital,34
+Divya Jeevan Medical Hospital,23.0127168,72.6389033,hospital,37
+"Kalpana Maternity and Nursing Home, Ahmedabad",23.0636536,72.5310852,clinic,20
+Sanket Children Hospial,23.0073805,72.5589064,hospital,64
+Sivmm Kidney Hospital,23.0834799,72.5912216,hospital,60
+U. N.Mehta Institute Of Cardiology and Research Centre,23.0527257,72.6013067,hospital,79
+Shreeji Neonatal and Child Care,23.0544261,72.5959396,hospital,97
+Sharda Eye Hospital,23.0870576,72.5920974,hospital,63
+Urva Children Hospital and Neonatal Care,23.0133822,72.5264731,hospital,35
+Arthro Care Hospital,23.0405047,72.5211865,hospital,48
+Kheteswar Medical Educational and Research Centre Hospital,23.0471775,72.5654282,hospital,89
+Shail Eye Hospital,23.0521364,72.5609992,hospital,71
+Shah Hospital - Vadaj,23.052411,72.5697197,hospital,72
+"Sarthak Orthopaedic Hospital, Parimal Crosssing",23.0194415,72.5586167,hospital,67
+Dhruvi ENT Hospital,23.0872193,72.5922891,hospital,94
+Sanand Janta Multispeciality Hospital,22.9872616,72.3812664,hospital,56
+Sarvamangal Women Hospital,23.0134142,72.5304092,hospital,72
+Stavya Spine Hospital and Research Institute,23.0259277,72.5660652,hospital,68
+Vatsalya Maternity Nursing Home,23.0344821,72.5212294,clinic,43
+"Kothari Hospital, Ahmedabad",23.0855562,72.6305442,hospital,60
+"Gurukrupa Hospital, Ahmedabad",23.0604405,72.5352037,hospital,38
+Laxmi Heart and Medical Hospital,23.0283086,72.4775523,hospital,51
+"Navkar Children Hospital, Ahmedabad",23.0162743,72.5298151,hospital,85
+Dr Chirag M Desai Eye Care,23.0088754,72.5623262,hospital,54
+Bopal Multispeciality Hospital,23.0315422,72.4717694,hospital,60
+Mother's Maternity and Nursing Home,23.0526874,72.549178,hospital,88
+Nanavati Maternity Hospital,23.0034068,72.518924,hospital,83
+Vaishali Hospital,23.0283536,72.4773833,hospital,86
+"Gujarat Hospital, Ahmedabad",23.0045749,72.6386267,hospital,74
+Aadya Eye and Ent Hospital,23.0619138,72.6398085,hospital,38
+Karnavati Hospital Pvt. Ltd.,23.0217016,72.5725166,hospital,79
+Navjeevan Doctor House,22.9867393,72.3808788,hospital,86
+"Dev Hospital, Vasna",23.0060128,72.5447845,hospital,51
+Dr Praful Munishi's Nursing Home,23.0197773,72.5653967,clinic,63
+Rukshmani Surgical Hospital,23.0518255,72.6416056,hospital,36
+Sparsh Orthopedic Oncology Clinic,23.0231938,72.5699329,clinic,44
+Ratan Deep Surgical And Endoscopy Clinic,22.9990078,72.6082449,clinic,91
+Sanket Children's Speciality Hospital,23.0379081,72.6442704,hospital,26
+Hariom Multispeciality Hospital,22.999875,72.6575299,hospital,61
+Neelkamal Hospital Pvt Ltd (Pooja Hospital),23.0838969,72.5912485,hospital,25
+"Trupti Hospital, Saijpur",23.0638912,72.6422949,hospital,23
+Deep Urosurgical Hospital,23.0454856,72.5623074,hospital,23
+Sannidhya Eye Hospital,23.0060905,72.5557816,hospital,61
+Karnavati Super Speciality Hospital,23.0604664,72.6398112,hospital,75
+Shyamal Orthopaedic Hospital,23.0133562,72.5263832,hospital,90
+Sanskar Heart Care And Medical Hospital,23.0981234,72.5891134,hospital,59
+Vadaj Orthopaedic Hospital,23.0576184,72.5692952,hospital,75
+Sahjanand Eye Care Hospital,23.0403424,72.5532469,hospital,86
+Maniar Hospital,23.0328949,72.5553042,hospital,29
+Manish Eye Hospital - Ahmedabad,23.0021131,72.5505567,hospital,26
+Parvati Jadav Hospital,23.0763407,72.6544695,hospital,94
+"Matru Hospital, Ahmedabad",23.0302148,72.622926,hospital,92
+"Matoshree Hospital, Ahmedabad",23.0006799,72.546536,hospital,77
+Aashwi E.N.T.Hospital,23.0371183,72.5290078,hospital,39
+Pushpa Children Hospital and Neonatal Care,23.1067781,72.5980747,hospital,70
+Aarogyam Speciality Hospital,23.0469542,72.5556147,hospital,22
+Trisha Trauma Centre and Icu,23.0713999,72.5591303,hospital,96
+Shreejee Hospital,22.979135,72.6195304,hospital,88
+Sanjivani Maternity,23.0130681,72.5245995,hospital,93
+Dr. Devendra Kanaiyalal Hospital and Nursing Home,23.0162681,72.5681533,hospital,44
+Harsiddh Hospital,23.079662,72.5740326,hospital,74
+Gheewala Hospital,23.0152127,72.5638162,hospital,29
+Rushabh Uro Hospital,23.046184,72.533758,hospital,33
+"Geeta Nursing Home, Ahmedabad",23.0026356,72.5971751,clinic,69
+Vallabh Surgical Hospital,23.0594844,72.5360284,hospital,67
+Dr. Shurti Ent Hospital,22.9980056,72.6097913,hospital,89
+Babycare Children Hospital and Neonatal Centre,22.9933987,72.6291548,hospital,78
+Venkaria Ortho Hospital,23.0388744,72.6309961,hospital,67
+Dr.Santosh C.Raibagkar,23.0199612,72.5604567,doctors,33
+Sanand Hospital and Trauma Centre,22.9881727,72.3812717,hospital,55
+Diva Eye Institute Hospital,23.0182599,72.5568886,hospital,38
+Stavan Eye Clinic,23.011259,72.5645041,clinic,49
+Poojan Maternity and Infertility Clinic,23.0730915,72.6528548,clinic,30
+Khush Eye Hospital,23.0186294,72.5584531,hospital,77
+Uma Maternity and Nursing Home,23.0662385,72.6627067,clinic,77
+Sangini Hospital,23.0250378,72.5233135,hospital,23
+Dr. Umesh D. Buch,23.0016724,72.5479241,doctors,51
+Aneri Children Hospital,23.0694294,72.5431028,hospital,53
+Divya Jyot Eye Hospital,23.0838463,72.5911814,hospital,41
+Eye Care Hospital Pvt. Ltd.,23.0241454,72.5498479,hospital,72
+Raj Ent Hospital,23.0519939,72.5640978,hospital,46
+Valu Hospital,23.0461976,72.5616597,hospital,34
+Satyamev Hospital,23.1204422,72.5815442,hospital,73
+Polio Foundation,23.0047117,72.5374903,hospital,32
+Archit Orthopaedic Hospital,23.0070978,72.5567982,hospital,87
+"Saraswati Eye Hospital, Ahmedabad",23.063798,72.6422057,hospital,92
+"Bavishi Eye Hospital, Ahmedabad",23.0218028,72.5413272,hospital,93
+Pankit Nursing Home,23.0397778,72.5661081,clinic,72
+"Shreedhar Hospital, Ahmedabad",23.000075,72.6591285,hospital,43
+Dr. Rajendra C. Patel Orthopaedic Nursing Home,23.0315465,72.5653041,clinic,54
+Sarjan Maternity and Nursing Home,23.0023131,72.5483291,clinic,50
+Aash Arthoscopy Centre,23.0176604,72.560572,hospital,20
+"Ashirwad Surgical Hospital, C.T.M",22.9997985,72.6359045,hospital,45
+Sushri Jasumatiben Shantilal Surti Charitable General Hospital,23.0256722,72.5319609,hospital,57
+Dr. Shailesh Shah Surgical Hospital and End. Clinic,23.0095864,72.5988331,hospital,72
+"Vrundavan Hospital, Ahmedabad",23.0471713,72.5582439,hospital,34
+Arihant Heart And Medical Hospital,23.0538573,72.5956231,hospital,89
+"Shaurya Hospital, Ahmedabad",23.0109689,72.5626293,hospital,46
+Sparsh Netralaya,23.0539511,72.595426,hospital,50
+"Parth Eye Hospital, Ahmedabad",23.0048092,72.5901327,hospital,39
+"Swastik Hospital, Ahmedabad",23.0395285,72.67597,hospital,30
+Navkar Hospital,23.0129094,72.5457716,hospital,46
+"Pushpam Hospital, Ahmedabad",23.1029936,72.5697277,hospital,28
+"Swari Ent Hospital, Ahmedabad",23.0668688,72.583823,hospital,87
+Krishna Shalby Hospital,23.0239294,72.4414712,hospital,95
+"Sagar Hospital, Ahmedabad",23.0063905,72.5335769,hospital,53
+Chhabra Eye Hospital,23.0259215,72.5268432,hospital,67
+"Prabhu Nursing Home, Ahmedabad",22.9993553,72.6357423,clinic,63
+"Vatsalya Children Hospital, Ahmedabad",23.0482795,72.5337875,hospital,32
+Om Surgical Nursing Home,23.0179184,72.5582573,clinic,83
+Aastha Eye Hospital,23.0255723,72.5275755,hospital,37
+Gmers Medical College Hospital,23.0827619,72.524609,hospital,48
+"CHC, Mandal",23.2890617,71.9157475,clinic,85
+"Super Surgical Hospital, Ahmedabad",23.0354102,72.5594562,hospital,31
+Krishna Hospital and ICCU,23.0672085,72.5631899,hospital,72
+Satellite Orthopaedic Hospital And Research Centre Pvt Ltd,23.0137315,72.5253627,hospital,60
+Chirayu Orthopaedic and Spine Hospital,23.0070435,72.5658171,hospital,79
+Adwait Ent Hospital,23.0400753,72.5777945,hospital,20
+"Long Life Hospital, Ahmedabad",23.013039,72.5637853,hospital,54
+"Mamta Children Hospital, Ahmedabad",23.0239912,72.5313695,hospital,61
+Jay Prasuti Gruh and Nursing Home,23.0282894,72.4778487,clinic,80
+Shantilal Parikh Hospital and Check Up Clinic,23.0373342,72.57069,hospital,89
+Dr.Anil V.Patel Eye Hospital,23.0671493,72.566613,hospital,28
+Sharda Clinic and Hospital,23.0442336,72.6049981,hospital,91
+Dr.Haroonbhai Jusabbhai Memon,23.0273162,72.5860812,doctors,85
+Dr.Joshi Maternity And Gynec Hospital,23.0188639,72.5606538,hospital,63
+Dr.Nagoris Institute Hospital,23.0263782,72.5260802,hospital,73
+Dr.Soneji Hospital,23.0017415,72.5917406,hospital,96
+Eye Research Centre And Retina Foundation,23.0557144,72.5907777,hospital,27
+Dr. Manoj Tank E.N.T. Hospital,23.0232494,72.5719513,hospital,26
+"Prasad Hospital, Ahmedabad",23.0496493,72.6573488,hospital,58
+Detroj CHC,23.336892,72.1870409,clinic,29
+Rangam Multispeciality Hospital,23.0099185,72.6450951,hospital,66
+Astha Orthopedic and Spine Hospital,23.0662892,72.5629491,hospital,85
+Aashu Dental Multispeciality Polyclinic,23.0345759,72.5635694,dentist,85
+Amrut Arogyadham Medical Hospital,23.1105464,72.5849734,hospital,47
+Rushabh Medi-Surge Hospital Pvt Ltd,23.0125983,72.5178203,hospital,75
+Jay Orthopaedic Hospital,23.0520957,72.6002379,hospital,63
+Pramukh Neurosurgical Hosptial,23.0411786,72.5621706,hospital,78
+"Trupti Heart and Medical Hospital, Ahmedabad",23.0042895,72.5905082,hospital,88
+Aash Surgical Hospital,23.0472453,72.5624844,hospital,59
+Kanchi Orthopaedic Hospital,23.010948,72.5465682,hospital,35
+Shree Mahavir Mutlispeciality Hospital and Icu,23.0603035,72.5355001,hospital,38
+Jainee Surgical Hospital,23.0803277,72.5666606,hospital,22
+Shri Rang Hospitaland Research Centre,23.0767892,72.5390634,hospital,62
+Brain and Spine Hospital,23.0402678,72.5659271,hospital,80
+Bodyline Hospitals,23.0099407,72.5545666,hospital,56
+"Siddhi Hospital, Ahmedabad",23.0672116,72.6429212,hospital,51
+Om Children Hospital,23.0620742,72.5306962,hospital,78
+Samkit Hospital Icu and Iccu,23.0057153,72.532901,hospital,84
+Vrundavan Children Hospital,23.0169692,72.5667264,hospital,81
+"Netra Raksha Hospital, Thakkarbapa Nagar",23.0392262,72.6383065,hospital,89
+Shivam Heart and Medical Hospital,23.0567152,72.634133,hospital,74
+Bhakti Maternity and Sonography Clinic,23.0014002,72.6355927,clinic,98
+"Shashwat Hospital and Research Center, Ahmedabad",23.0583008,72.5332966,hospital,32
+"Aditya Hospital, Ahmedabad",23.0043253,72.5520748,hospital,99
+Krupanidhi Hospital,23.0152967,72.5638765,hospital,37
+"Aditya Eye Hospital, Ahmedabad",23.0499602,72.5348282,hospital,84
+"Joitiba General Hospital, Ahmedabad",22.978619,72.611884,hospital,22
+Anoop Children Hospital,22.9926876,72.6321253,hospital,99
+Aayush Surgical Hospital,23.0462322,72.5337466,hospital,30
+"J J Hospital, Ahmedabad",23.0731297,72.5368439,hospital,81
+Dr. Rajiv Thakores Hospital,23.0176617,72.5539094,hospital,63
+Parekh Hospital,22.8306417,72.3614478,hospital,38
+Chikhalkar Hospital and Iccu,23.0561654,72.5493899,hospital,34
+The Holistic Medical Centre Ayulink Ayurveda Hospital,23.0379772,72.5595984,hospital,100
+Aniket Ent Hospital,22.9926333,72.632124,hospital,89
+Amruta Hospital and Heart Centre,23.082678,72.5896941,hospital,76
+Hari Krishna Uro Surgical Hospital,23.0381006,72.6439887,hospital,48
+Aditya Multi-Speciality Hospital,23.0632822,72.5315224,hospital,25
+Vatsalya Neonatal and Children Hospital,23.0208659,72.6388442,hospital,28
+Motherhood Womens and Child Care Hospital,23.0745277,72.5125068,hospital,90
+Kanan Maternity and Nursing Home,22.9977455,72.6091146,clinic,34
+Arpan Orthopedic and Trauma Hospital,23.0024575,72.595257,hospital,81
+Jarmarwala Hospital,23.0199254,72.5458769,hospital,54
+Pearl Eye Hospital,23.0098432,72.5806028,hospital,51
+Shushilaben Neonatal And Child Care Centre,23.0310362,72.6149404,hospital,74
+Shree Aman Hospital,23.0844866,72.5914161,hospital,64
+Abhyankar Nursing Home,23.0259468,72.566328,social_facility,54
+Rainbow Super Speciality Children's Hospital,23.0460902,72.5286249,hospital,63
+"Parth Hospital, Ahmedabad",23.0837834,72.5889122,hospital,35
+"Gayatri Heart And Medical Hospital, Bhimjipura",23.0602795,72.5647576,hospital,24
+Sanghavi Hospital Pvt. Ltd.,23.0066966,72.5563677,hospital,96
+Pallav J M Desai Memorial Hospital (Better Health Pvt.Ltd.),22.9947616,72.6141009,hospital,97
+"Parth Surgical Hospital, Ahmedabad",23.0029958,72.5544217,hospital,74
+Shiv Sharddha Nursing Home and Super Speciality Clinics,23.0545162,72.5971869,clinic,56
+"Jalaram Hospital, Ahmedabad",23.0277853,72.5218208,hospital,57
+Kruti Orthopedic Hospital,23.0464247,72.5709508,hospital,37
+Banker`S Retina Clinic and Laser Centre,23.0416302,72.5542541,clinic,97
+Jariwala Women's Hospital,23.0547211,72.5964291,hospital,62
+Rukshmani Medical Hospital,23.0031785,72.6334758,hospital,45
+RMS Hospital Trauma General Hospital,22.3641035,71.9781169,hospital,38
+CGHS Dispensary No.3,23.0355015,72.5694904,clinic,94
+HCG Cancer Centre,23.0705004,72.5227287,hospital,65
+Zeal Maternity And Nursing Home,23.0544878,72.6029496,hospital,67
+Sanidhaya Maternity and Nursing Home,23.0143203,72.5301518,clinic,31
+Vraj Hospital and Heart Care Center,22.980618,72.6021999,hospital,59
+Sahjanand Orthopaedic Hospital,23.0126292,72.51789,hospital,67
+Jaju Plastic Surgery Center,23.0421276,72.5592698,hospital,50
+Raghuvir Eye Hospital,22.9947925,72.6074664,hospital,24
+Shachi Women's Hospital,23.066349,72.5838341,hospital,80
+"Palak Hospital, Ahmedabad",22.9989479,72.6251891,hospital,81
+Anand Children Hospital Neonatal Intensive Care,23.0487768,72.6059926,hospital,29
+Ami Eye Clinic,23.0633976,72.5809816,clinic,65
+Patel E.N.T Hospital,23.0477933,72.5712056,hospital,81
+Rosemaarry Womens Hospital,23.0318187,72.5260091,hospital,21
+Sehat Hospital Clinic,22.9932036,72.5258213,clinic,87
+Sanjivan Heart and Medical Hospital,23.0837698,72.5903244,hospital,47
+Sainath Orhtopaedic Hospital,23.0592152,72.5360379,hospital,84
+Sardar Hospital,23.0380179,72.6445547,hospital,64
+Shree Harikrupa Hospital,23.0200612,72.5615551,hospital,61
+Amardeep Multispeciality Children Hospital,23.0202065,72.5642668,hospital,92
+HCG Multi Specialty Hospital,23.0288615,72.5642949,hospital,54
+Palak Eye Hospital,22.9949308,72.6068804,hospital,46
+Rukshmani Government Hospital,22.9994812,72.6197255,hospital,81
+Rugved Multispeciality Hospital,23.0504316,72.6468533,hospital,68
+Ashirwad Children and Eye Hospital,22.9978986,72.6079211,hospital,76
+Ayushman Medical Hospital and Dignosis Center,23.0237122,72.6391487,hospital,80
+R. Tolat Eye Clinic,23.0137364,72.560387,clinic,61
+"Ravi Surgical Hospital, Ahmedabad",22.9980843,72.6098563,hospital,63
+College of Dental Sciences and Research Hospital,23.0347264,72.435679,hospital,99
+Shrreeji Surgical Hospital,22.9981609,72.625165,hospital,28
+Aalap Clinic and Surgical Nursing Home,23.045074,72.5710642,clinic,40
+Shreyas Speciality Hospital,23.002323,72.5175279,hospital,40
+"Rugveda Practur and Orthopaedic Hospital, Ahmedabad",23.0021551,72.5467211,hospital,46
+Kalptaru Hospital,23.049363,72.594506,hospital,49
+Sukhmani Hospital / Saviour Annexe Hospital,23.0364864,72.5696392,hospital,27
+"Setu Surgical Hospital, Ahmedabad",23.0540923,72.6429145,hospital,40
+Auro Ent Hospital,23.0578122,72.5701462,hospital,38
+"Swastik Surgical Hospital And Dental Clinic, Ahmedabad",23.0034741,72.5189053,hospital,20
+"Sanjivani Eye Hospital and Phaco Centre, Ahmedabad",23.0459888,72.5615689,hospital,66
+"Sanjeevani Hospital, Ahmedabad",23.0595717,72.5356453,hospital,50
+Hcg Medi-Surge Hospitals Private Limited,23.0288813,72.5643083,hospital,40
+The Vitreoretina Clinic and Eye Hospital,23.0389016,72.5161432,hospital,92
+Soni Nursing Home,23.0726584,72.6604924,clinic,73
+Mahin Lifecare Services Pvt.Ltd,22.9931604,72.5256523,hospital,50
+Jay Umiya Hospital,23.0728893,72.5590798,hospital,54
+Aarna Medical Hospital,23.0395124,72.6388644,hospital,49
+Akshar Krupa Hospital,23.0544298,72.5958726,hospital,79
+Siddhi Heart and Medical Hospital,23.0729002,72.5591692,hospital,32
+"Ashish Orthopaedic Hospital, Ahmedabad",23.0369328,72.5273097,hospital,45
+Ashray Clinic,23.0072793,72.5573789,clinic,57
+Sanjivani Heart and Medical Hospital (Ahmedabad),23.0578196,72.5701541,hospital,86
+Raksha Hospital Pvt Ltd,23.036039,72.5174716,hospital,41
+B.J. Medical College Hospital,23.0526578,72.6028262,hospital,74
+Government Spine Institute Hospital,23.0500108,72.6080297,hospital,37
+"Parth Eye Hospital, Isanpur",22.9798932,72.5997604,hospital,32
+Austmangal Surgical Hospital,23.0545187,72.595823,hospital,23
+Rudraksh Hospital,23.0626344,72.643695,hospital,50
+Babul E.N.T. Hospital,23.0246015,72.5449569,hospital,66
+Dr Dipak C Shah E N T Hospital,22.9956523,72.6121093,hospital,46
+"Adarsh Hospital, Ahmedabad",23.0476847,72.5663294,hospital,93
+Swapn Healthcare Hospital Pvt. Ltd,22.9834237,72.5971761,hospital,29
+RIVERLEAF,23.0520663,72.6705656,clothes,95
+"Navjivan Maternity and Orthopaedic Hospital, Ahmedabad",23.0543583,72.6428729,hospital,97
+Dr. Suresh K. Bhanshali,23.0376687,72.5652552,doctors,74
+Nadkarni's 21St Century Hospitals Pvt Ltd,22.9979961,72.6355197,hospital,66
+Cardio Vascular Clinic - Ahmedabad,23.0128822,72.5216398,clinic,32
+J.Chirag Surgical Hospital,23.0463124,72.5624067,hospital,94
+Urvashi Nursing Home,23.0342994,72.5802205,clinic,86
+Shri Yogeshwar General Hospital,23.0812863,72.5380576,hospital,58
+Navkalp Children Hospital,23.0059807,72.5599363,hospital,97
+Memon Ent Hospital,23.0272274,72.5861375,hospital,65
+Mahalaxmi Maternity Nursing Home and Sonography Center,23.0804227,72.5355068,clinic,96
+"Shaishav Children Hospital, Ahmedabad",23.0592497,72.5372905,hospital,48
+Shreeji Clinic and Nursing Home,23.0835144,72.5911599,clinic,57
+Shiv Jyoti Eye Hospital,23.0388164,72.6331285,hospital,62
+Dr. Atul H Kansara `S (E.N.T) Hospital,23.010174,72.5621974,hospital,53
+Aneri Surgical and Neuro Surgical Hospital,23.0016415,72.5481668,hospital,51
+Bopal Eye Care Centre,23.0288344,72.4779037,hospital,69
+Shree Hari Clinic,23.0159755,72.5136414,clinic,28
+Devam Orthopaedic Hospital,23.0590239,72.5378671,hospital,96
+Reshambhai Fertility Hospital,23.0539073,72.5964371,hospital,35
+"Dr, Nayan V Shah Surgical Hospital",22.9809304,72.5987479,hospital,65
+"Samved Orthopaedic Hospital, Ahmedabad",23.0405319,72.5581983,hospital,70
+Shlok Medical and Heart Hospital,22.9872011,72.603419,hospital,80
+Dr. Devendra Patel Nursing Home,23.0377477,72.5625488,clinic,48
+"Sanjivani Hospital, Viramgam",23.1213953,72.0497571,hospital,41
+Cheers Interventional Pain Management Hospital,23.0403048,72.5543117,hospital,87
+"Narang Eye Hospital, Munohwa By Pass Chowk",23.0482079,72.6016447,hospital,85
+Vishwa Medical And Heart Hospital,23.0029007,72.595717,hospital,88
+Cure Sight Laser Centre,23.0201772,72.557914,doctors,97
+"Vivek Children Hospital, Khokhara",23.0017465,72.6183012,hospital,54
+Prabhujyot Inst. Of G.I. Endoscopy and Laproscop,23.0100246,72.5465441,hospital,24
+Dr Yashvant Chhatbar,23.1111304,72.571964,doctors,53
+Shriji General Hospital,22.8496648,72.5901367,hospital,87
+Vatsalya Gynec Hospital,23.0066954,72.5325832,hospital,56
+Vikas Medical and Heart Hospital,23.0730767,72.6527891,hospital,22
+Dr. Suresh Balani,23.0652293,72.6425953,doctors,95
+Dhawal General Hospital,22.89509,72.6752123,hospital,64
+Tirtham Surgical and Laparoscopic Centre,23.0638572,72.5304455,hospital,45
+Peshant House Hospital,23.0127576,72.5670958,hospital,26
+Jagdish Orthopadic Hospital,23.0209844,72.5436446,hospital,45
+Vedanta Institute Of Medical Sciences Hospital,23.0402147,72.5598545,hospital,22
+"Harshil Medical Nursing Home, Isanpur",22.9813563,72.5988619,clinic,39
+"Jivandeep Hospital, Ahmedabad",22.7220565,72.4361055,hospital,99
+CGHS Dispensary No.2,22.9998947,72.5906262,clinic,89
+Lions Karnavati Shantaben Vishnubhai Patel Eye Hospital,23.1224896,72.5045286,hospital,86
+Shree Sai Children Hospital,23.1146062,72.5838912,hospital,69
+Devasya Superspeciality Kidney Institute and Research Centre,23.0269892,72.4773597,hospital,65
+"Ashirwad Hospital, Ahmedabad",22.9873418,72.611577,hospital,91
+Dr Pratap Desai Eye Clinic,23.045286,72.5617717,clinic,57
+"Shivam Medical Hospital, Sardar Nagar",23.0809819,72.6213037,hospital,56
+Yogiji Medical Hospital,22.9985353,72.6247528,hospital,27
+Aagman Maternity and Gynec Hospital,23.0436594,72.6502608,hospital,97
+Netram Care Eye Hospital,23.062087,72.5305813,hospital,90
+Mahadev Eye Care,23.065196,72.6426128,clinic,56
+Jaliyan Orthopaedic Hospital,23.0226864,72.5697332,hospital,67
+Tejal Eye Hospital,23.0790988,72.5753262,hospital,89
+Ano Care Hospital,23.0377884,72.6440035,hospital,30
+Dr.Saurabh Shah Orthopaedic Hospital,23.0663546,72.5629216,hospital,48
+Ashadeep Polyclinic and Nursing Home,22.9291372,72.6619636,clinic,37
+"Adinath Hospital, Ahmedabad",23.054805,72.5964358,hospital,42
+Geeta Maternity and Polyclinic Nursing Home,22.9817137,72.5982222,clinic,69
+"Shreyas Orthopedic Hospital, Vasna",23.0022835,72.5482339,hospital,89
+Chintan Orthopaedic Hospital,23.0072423,72.5362967,hospital,47
+Akshar Eye Hospital,23.0650523,72.6426671,hospital,44
+Jigisha Nursing Home,23.0657698,72.5669832,clinic,29
+Dr. Trivedis Arthroscopy Clinic And Hospital,23.0249533,72.5472508,hospital,31
+"Spandan Hospital, Ahmedabad",23.0034513,72.5189187,hospital,35
+Kuvar Ba General Hospital,23.0114874,72.6491044,hospital,59
+Vinayak Children Hospital-Ahmedabad,23.0804356,72.5679736,hospital,65
+"Shree Maternity and Nursing Home, Ahmedabad",23.0163409,72.5298487,clinic,41
+Rachana Hospital,23.0489292,72.6016849,hospital,60
+Kalrav Maternity Hospital and Sonography Centre,23.0405269,72.6583895,hospital,60
+Aashirwad Surgical Hospital and Nursing Home,23.0839074,72.5911881,hospital,36
+Dr. Ashish B. Dave,22.9973331,72.6092997,doctors,96
+Dr. Sejal Desai Eye Hospital,23.0016292,72.5479455,hospital,33
+Vishwa Ent Hospital,23.0220336,72.5253251,hospital,67
+Navkar Plastic Surgery Hospital,23.014419,72.5629203,hospital,99
+Shukan Maternity Home,22.996806,72.6562531,hospital,47
+"Community Health Centre, Viramgam",23.129326,72.0437264,clinic,76
+Rajni Women's Hospital and Research Centre,22.9914333,72.6338285,hospital,34
+Gujrat Child Care Hospital,23.0136587,72.5303878,hospital,82
+Krishna Maternity Nursing Home,23.0286529,72.4780579,clinic,41
+"Jain Hospital and Icu, Jivraj Park",23.0058276,72.5329319,hospital,84
+Saraiya Plastic Surgery And Burns Hospital,23.0152707,72.5638269,hospital,66
+"Sushrut Hospital, Ahmedabad",23.0090414,72.5622276,hospital,91
+Rushil Cancer And Endocrine Care,23.0213053,72.5435185,hospital,43
+"Netr-The Eye Care Clinic, Ahmedabad",23.0280247,72.5263859,clinic,56
+Shyam Urological Hospital,23.0193453,72.5572944,hospital,37
+Smt Shobhadevi Ent Hospital,23.064969,72.6426845,hospital,59
+Gujarat Institute Of Psnchological Sciences Hospit,23.0185504,72.5362779,hospital,66
+Abhisek Maternity and Nursing Home,23.0157929,72.5243381,hospital,90
+Nishant E N T Hospital,23.0168791,72.5667813,hospital,86
+"Siddhivinayak Hospital, Ahmedabad",23.0175456,72.5576954,hospital,33
+Sitababa Hospital,23.0626813,72.5377853,hospital,38
+Smruti Hospital,23.0054634,72.5904116,hospital,68
+Raj Maternity Home,22.979024,72.6105885,hospital,54
+The Gujarat Research and Medical Institute ( Rajasthan Hospital),23.0552899,72.5969093,hospital,75
+Clear Vision Eye Hospital( Unit 1),23.0030081,72.5551459,hospital,71
+Rangshree Clinic,23.0429384,72.5579488,clinic,98
+Shreeji Maternity and Surgical Nursing Home,23.0132205,72.5186283,clinic,69
+Apollo Pharmacy,23.0168114,72.4702312,pharmacy,88
+Sannidhya Hospital,23.0166336,72.469625,hospital,47
+Navkaar Hospital,23.0166114,72.4695579,clinic,34
+Apple Tree,23.0168879,72.4705235,department_store,32
+Brillar,23.0168978,72.4705691,beauty,87
+Dr J J Vora Memorial General Hospital,23.040701,72.5689566,hospital,43
+Avon Thai Spa,23.0176285,72.4753327,massage,87
+"Siddhi Vinayak Hospital, Ahmedabad",23.0041352,72.6064526,hospital,80
+Aastha Eye Care Centre,23.0696614,72.5428694,hospital,97
+Raghukul Ortho Hospital,23.0395927,72.635415,hospital,99
+Rajput Eye Hospital,23.0129625,72.6388724,hospital,33
+Het Childcare Hospital,23.0028217,72.6183441,hospital,36
+Madhuram Surgical Hospital,23.0328727,72.6284051,hospital,75
+Dhwani General Hospital Nursing Home and Maternity Home,23.0147326,72.6449161,hospital,47
+"Shreyas Orthopedic Hospital, Ahmedabad",23.1154284,72.5822818,hospital,95
+Sanjeevani Fracture andAccident Hospital,23.0487456,72.6062142,hospital,30
+"Paras Surgical Hospital, Ahmedabad",22.8323857,72.363256,hospital,61
+Gujarat Research And Medical Institute Hospital,23.0869528,72.628334,hospital,43
+Chirayu Surgical Hospital,23.0633896,72.6412113,hospital,67
+Netralaya-The Eye Associates,23.0193008,72.5572461,hospital,72
+Suvidha Orthopedic And Acccident Hospital,23.0005774,72.3822266,hospital,45
+Gayatri Childrens Hospital,23.0671591,72.5629981,hospital,96
+Chokshi Maternity Nursing Home and Sonography Clinic,23.067744,72.5442159,clinic,43
+Neha Children Hospitals and Neonatal Centre,23.0031649,72.5952208,hospital,95
+Kavit Urosurgical Hospital,23.0396353,72.5659411,hospital,90
+Auroma Ent Hospital,23.0598028,72.5357951,hospital,61
+Sahyog General Hospital and Nursing Home,22.9870335,72.4732058,hospital,21
+Jayshri Medical Hospital,23.0048808,72.6367199,hospital,79
+Radha Krishna Hospital,23.0489175,72.6041847,hospital,36
+Hind Hypermarket,23.016933,72.4729214,supermarket,84
+State Bank of India,23.0168635,72.4725529,bank,34
+Unknown,23.0168689,72.4725616,atm,94
+Bhadra Clinic Hospital,23.0473058,72.5586636,hospital,70
+V and M Orthopaedic Centre,22.9970288,72.6068388,hospital,80
+Family Care Nursing Home,22.9834589,72.601811,clinic,61
+Mahavir Clinic & Nursing Home,23.1059184,72.5696943,clinic,28
+"Anand Eye Hospital,(Dr. Rohit Desai)",23.0519251,72.560481,hospital,34
+Smt.NHL Municipal Medical College Hospital,23.0187158,72.5714269,hospital,96
+Killol Children Hospital,23.0520284,72.5641722,hospital,23
+"CHC, Viramgam",23.1278572,72.0466849,clinic,56
+Gujrat Diagnostic Center and Pathology Laboratory,23.016489,72.5665225,hospital,67
+Giriraj Orthopaedic Hospital,23.0094926,72.5988793,hospital,47
+BSNL Exchange,22.9998935,72.5468244,hospital,36
+Amdawad Eye Laser Hospitals Pvt Ltd,23.027216,72.5454128,hospital,93
+Unknown,22.9863649,72.6274148,hotel,25
+Unknown,23.0430359,72.5895319,bus_station,68
+Unknown,23.0012911,72.5995705,restaurant,40
+Unknown,22.999754,72.6094411,pet,35
+Unknown,22.9260283,72.6569769,apartment,67
+Unknown,22.9927936,72.6077576,apartment,36
+Unknown,22.9901978,72.6247132,apartment,76
+Shreyas Dental Hospital,23.0482474,72.5617795,dentist,38
+Hatkeshwar mandir,23.0233183,72.5938375,place_of_worship,37
+Dwarkadhish mandir,23.0207788,72.5947645,place_of_worship,56
+Rameshwar mandir,23.0208959,72.5919461,place_of_worship,97
+The Cafe Date,23.034043,72.5018226,cafe,85
+Government Polytechnic,23.0265769,72.5475056,college,54
+Masjid e Khatimul Ambiya,22.9795627,72.5759353,place_of_worship,60
+Shahi Masjid,22.9976863,72.5886917,place_of_worship,63
+Shahi Masjid - Shah e Alam Dargah,22.9944381,72.5889358,place_of_worship,35
+Amena Khatun General Hospital,22.9928112,72.5191879,hospital,83
+Shahi Masjid - Dargah Hazrat Ali Sher Bangali,23.0104389,72.5651855,place_of_worship,39
+Hazrat Makhdum Shah Masjid,23.013937,72.584312,place_of_worship,78
+Jambudi Masjid,23.012687,72.584438,place_of_worship,70
+Masjid e Bahare Shariat,22.992313,72.5765629,place_of_worship,30
+Government Hospital Bavla,22.8370198,72.3661152,hospital,88
+Vibrant Silver I,23.0345886,72.4610318,apartment,73
+Maruti Electric,23.0318964,72.4696501,electrical,41
+Unknown,23.0599826,72.5801102,toilets,92
+Unknown,23.0598427,72.5800665,parking_space,87
+Kirti Executive Lounge,23.0270204,72.6011501,hotel,65
+Iscon Emporio,23.0265633,72.5244892,mall,79
+Unknown,23.0419518,72.562677,guest_house,85
+Hind Store,23.1135557,72.5555815,supermarket,39
+Mahakali,23.0167363,72.4699729,supermarket,71
+Skyblue,23.0164623,72.4690582,stationery,23
+Unknown,22.9608211,72.5830274,place_of_worship,30
+Dharmachakra Clinic,22.382661,71.9836273,clinic,73
+Aagam Clinic,22.3822714,71.983956,clinic,63
+Nilkanth Dental Clinic,22.3818212,71.9785534,dentist,84
+Shri Sai Dental Clinic,22.9658962,72.5869502,dentist,46
+Shree Umiya Multi Speciality Hospital,23.019646,72.593685,hospital,31
+Vahedi Hospital,22.999361,72.585958,hospital,96
+Herbal Unani Clinic,23.014903,72.582281,clinic,67
+Jankalyan Janaseva Hospital,22.9634073,72.5912646,hospital,22
+Shruti ENT Hospital,22.997277,72.609198,hospital,52
+Apollo Clinic,22.999263,72.608319,clinic,73
+Child Care Surgical Hospital,22.997459,72.610435,hospital,61
+Mamta Maternity Home,23.0234972,72.5946245,hospital,79
+LM Referral Hospital,23.018949,72.597401,hospital,87
+Mysorewala Surgical Hospital,23.0210847,72.5900772,hospital,35
+"Avishkar Multi Speciality, ICU and Trauma Centre",22.988104,72.611857,hospital,20
+Shree Jee Eye and Orthopedic Hospital,23.028639,72.596633,hospital,63
+Chanchalba Maternity Hospital,22.9995851,72.6003159,hospital,67
+Dr. Ramanlal Hospital,22.998028,72.600585,hospital,53
+Dr. Mubassir Saiyad,23.001855,72.589145,doctors,36
+Kilu ENT Hospital,22.9970061,72.6063718,hospital,45
+Aksharamrut Dental Clinic,23.018885,72.59432,dentist,42
+Tiwaris Dental Clinic,22.998825,72.607965,dentist,45
+Bhanu Jit Maternity and Nursing Home,23.005749,72.595118,hospital,98
+Atharva Ayurveda Clinic and Panchakarma Centre,22.997505,72.604633,clinic,61
+Shreeji Dental Clinic and Implant Centre,22.999845,72.606431,dentist,27
+Madhavbaug Clinic,23.000113,72.603228,clinic,23
+Maninagar Dental Hospital and Implant Centre,22.9974318,72.6050866,dentist,28
+Chhapan Hospital,23.02645,72.591737,hospital,33
+Shree Shakti General Hospital,22.9666916,72.5893488,hospital,84
+Sneh Clinic,22.998786,72.608215,clinic,44
+Artificial Eye Surgery,23.002052,72.607654,hospital,93
+Rupam Women's Clinic,22.9982724,72.5943965,clinic,43
+Pinakin Dalal Hospital,23.029419,72.5933157,hospital,98
+Maryam Hospital,22.981501,72.588856,hospital,44
+Gurunanak Hospital,22.984428,72.616878,hospital,41
+Hazrat Amina BIbi Hospital,22.9947749,72.5884667,hospital,56
+Dr. Nimesh Trivedi,23.0202363,72.5893216,doctors,89
+Sambhav General Hospital,23.006527,72.583296,hospital,88
+Niruj Rheumotogy Clinic,22.9981001,72.6021433,clinic,84
+Kushi Women Hospital,23.000266,72.608195,hospital,100
+Mithakhali Stavya Hospital,22.9969506,72.601663,hospital,61
+Premal Dental Clinic,23.0029601,72.6075452,dentist,86
+Narol ICU and Multi Speciality Hospital,22.9646691,72.5903719,hospital,65
+Dr. Kirit C. Shah,23.000123,72.604134,doctors,21
+Dr. Dave Eye Care,22.999176,72.607469,clinic,46
+Jatan Children Hospital,23.019026,72.593349,hospital,75
+Little Flower Neonatal and Pediatric Super Speciality Hospital,22.993645,72.607322,hospital,24
+Parikh Orthopedic Hospital,22.996403,72.608657,hospital,80
+Divya Children's Hospital,23.023421,72.597732,hospital,89
+Chinubhai Baronet Hospital,23.024842,72.598982,hospital,93
+Navdeep Hospital,23.003436,72.596416,hospital,50
+Hindu Muslim Ekta Trust Hospital,23.012988,72.587951,hospital,91
+Dr. Tanumati Shah Hospital,23.029011,72.592461,hospital,43
+Munsipal Hospital,23.009168,72.585876,hospital,84
+Mediclaim Hospital,22.9646606,72.5934357,hospital,39
+Maya Maternity Hospital,22.9949326,72.6075168,hospital,67
+Chhipa Welfare Trust Hospital,23.015985,72.587351,hospital,95
+TB Hospital,23.0151021,72.5908296,hospital,65
+Jay Orthopedic Hospital,23.02691,72.587214,hospital,63
+Lavanya Clinic,22.9928912,72.6031299,clinic,52
+Diya Clinic,22.96343,72.589033,clinic,22
+Gandhi Charitable Homeopathy Clinic,22.9964298,72.6098995,clinic,76
+Sharda Surgical Hospital,22.997027,72.609335,hospital,100
+Sheth Jamnabhai Bhagubhai Trust,23.0259793,72.5919014,hospital,41
+Shivam Children Hospital and Pediatric Critical Care Centre,23.0003225,72.6037424,hospital,66
+Parijat Children Hospital,23.0293947,72.5905625,hospital,70
+Aaditya Spine Hospital,23.0058864,72.5917151,hospital,41
+Dr. Nilofar Shaikh,23.0290414,72.5946976,doctors,22
+Dr. Tapan A Shah,23.000179,72.6043884,doctors,23
+Unique Speciality Clinic,22.9821082,72.5859446,clinic,50
+Safal Children Hospital,23.0012666,72.5877721,hospital,51
+Janani Women and Children Hospital,22.9644685,72.590532,hospital,92
+Devam Hospital,23.000081,72.608487,hospital,98
+Matru Chhaya Hospital,22.954141,72.612253,hospital,46
+Remedy Hospital,22.983088,72.600519,hospital,49
+Sparsh Multi Speciality Hospital,22.966305,72.624931,hospital,95
+Dirgayu Orthopedic Hospital,22.9768837,72.6010063,hospital,60
+Suman Hospital,22.981475,72.611161,hospital,47
+Kashiba General Hospital,22.953285,72.615888,hospital,93
+Dr. Bakulesh Madhu,22.981225,72.598839,doctors,40
+Vimala Hospital,22.967894,72.617867,hospital,78
+Doctor Bhatt's Hospital,22.971831,72.604727,hospital,74
+Medicure Hospital,22.9704828,72.5931204,hospital,43
+Ratan Hospital,22.977063,72.592925,hospital,33
+Dhanwantari Clinic,22.9490816,72.5969718,clinic,88
+Smruti Multi Speciality Hospital,22.974308,72.611594,hospital,88
+Dr. Jayshree Vadher,22.9780991,72.5993672,doctors,30
+Abhinav Clinic,22.9457646,72.6212151,clinic,59
+Harsh Hospital,22.9515073,72.6244409,hospital,47
+Shakur Children Hospital,22.979498,72.5983418,hospital,52
+Abhinav Hospital,22.9664477,72.6159949,hospital,40
+Lambha Skin Hospital,22.9339127,72.5760578,hospital,43
+Dr. Dharmendra Thakkar,22.9531942,72.615095,doctors,35
+Chiranjeevi Hospital,22.975087,72.601692,hospital,70
+Ashirvad Hospital,22.979475,72.601175,hospital,94
+Roshan General Hospital,22.963029,72.61044,hospital,33
+Jyoti Eye Care Hospital,22.9831626,72.6028164,hospital,59
+Dr. Pandya's Maternity Nursing Home,22.9857798,72.6024947,hospital,32
+Shyam Clinic,22.9504545,72.6221998,clinic,45
+Life Care Clinic,22.9493294,72.6238761,clinic,78
+Eye Sight Vision Care Hospital,22.978896,72.610165,hospital,55
+New Shraddha Hospital,22.9797902,72.5969418,hospital,93
+Vedanth Medical Hospital,22.981784,72.606863,hospital,32
+Dr. Binitha Desai,22.977918,72.595312,doctors,50
+Shree Gurukrupa Clinic,22.952831,72.616696,clinic,34
+Krishna General Hospital,22.93826,72.614834,hospital,88
+Balaji Speciality Hospital,22.978245,72.611169,hospital,85
+Noble Clinic,22.977722,72.600505,clinic,39
+Pramukh Hospital and Research Centre,22.9382867,72.6149817,hospital,100
+Indira Women's Care and Multi Speciality Hospital,22.948094,72.598012,hospital,22
+Seva Clinic,22.9629705,72.6092014,clinic,42
+Dirdhau Hospital,22.9820852,72.6032425,hospital,79
+U.N. Mehta Eye Hospital,22.958951,72.618997,hospital,84
+Sarsij Dental Clinic,22.9807648,72.6027041,dentist,26
+Dr. K.B. Bhagatariya Hospital,22.972368,72.5872561,hospital,79
+Aman Multi Speciality Hospital,22.9605,72.608201,hospital,41
+Apoorva Women's Hospital,22.9787938,72.6097705,hospital,87
+Shraddha Hospital,22.98027,72.595008,hospital,28
+Clear Vision Eye Hospital,22.978672,72.608642,hospital,67
+Akshar Hospital,22.98106,72.610699,hospital,51
+Shree Nathe Hospital,22.9811997,72.6023636,hospital,35
+Prerana Gynec and Maternity Hospital,22.974803,72.602266,hospital,76
+Dr. Shah's Maternity and Nursing Home,22.9840852,72.6026036,hospital,64
+Chirag Clinic,22.954932,72.603897,clinic,67
+Shreeji Children's Hospital,22.981784,72.6029,hospital,60
+Khana Clinic,22.9525929,72.6023803,clinic,30
+Shraddha Orthopaedic Hospital,22.9810392,72.598519,hospital,89
+Safal Hospital,22.957118,72.611815,hospital,44
+Shraddha Children Hospital,22.9757579,72.6022206,hospital,38
+Aatman Hospital,22.983673,72.6001796,hospital,77
+Swami Sadanand Hospital,22.9598509,72.6117361,hospital,98
+Chiranjeev Children Hospital,22.955252,72.612341,hospital,82
+Epic Clinic,22.963486,72.610208,clinic,39
+Anand Children Hospital,22.9769658,72.6009535,hospital,20
+Shri Ji Kripa Prasuti Griha Hospital,22.953387,72.612777,hospital,60
+Rameshwar Multi Speciality Hospital,23.0582776,72.6222017,hospital,27
+Sevak Maternity & Surgical Hospital,23.096892,72.596062,hospital,27
+Trimurti Hospital,22.8333954,72.3564164,hospital,86
+Navjivan Hospital,23.114943,72.581545,hospital,20
+Gayatri X Ray Clinic and Health Care,23.059159,72.62133,clinic,45
+Munciapl Prasuti Hospital,23.0376047,72.5798849,hospital,85
+Arihant Hospital,22.730733,72.4399816,hospital,88
+Pushp Hospital and Maternity Home,23.114332,72.578769,hospital,84
+Devarshi Super Speciality Hospital,23.122105,72.582052,hospital,79
+Brinda Maternity Nursing Home,22.727207,72.438565,hospital,95
+Adhvait Psychiatry Hospital,23.038118,72.576487,hospital,40
+Faiz Hospital,22.996289,72.5794455,hospital,25
+Shahpur Medical Hospital,23.0360108,72.5781671,hospital,80
+Dr. Yasin,23.0360714,72.5810933,doctors,49
+Krishna Maternity and Nursing Home,23.045083,72.5815979,hospital,96
+Rajdip Children Hospital,23.08992,72.590307,hospital,52
+Dr. Atul Vaidhya,23.048502,72.601561,doctors,33
+Navodaya Hospital for Neonates and Children,23.1112092,72.5847083,hospital,83
+ESIC Hospital,23.053458,72.589815,hospital,47
+Chandkheda Orthopedic & Surgical Hospital,23.113705,72.583096,hospital,39
+Parimal Hospital,23.0958571,72.5958301,hospital,40
+Raj Hospital,22.718631,72.437575,hospital,66
+Shivam Surgical and Dental Hospital,23.114583,72.582827,hospital,48
+Maheshwari Children Hospital,23.0403546,72.5795035,hospital,21
+Life Care Clinic,22.9877498,72.5673496,clinic,67
+Sagar Multi Speciality Hospital,23.048956,72.581574,hospital,88
+Kamal Hospital,23.059688,72.61811,hospital,69
+Mumtaz Hospital,22.9966232,72.5785891,hospital,58
+Gcs Hospital,23.0465734,72.6082995,hospital,31
+Shreeja Krupa Children Hospital,23.032378,72.5774069,hospital,44
+Parshwanath General Hospital,22.744053,72.44004,hospital,52
+Shraddha Multi Speciality Hospital,23.032023,72.577351,hospital,75
+Dr. Harsha Tripathy Eye Hospital,22.836153,72.366132,hospital,92
+Neuron Neuro Surgical Hospital,23.037853,72.576397,hospital,36
+Military Hospital,23.058909,72.601892,hospital,28
+Krishna Hospital,23.0402323,72.5777147,hospital,84
+Ansh Multispeciality Hospital,23.114667,72.580661,hospital,58
+Sonal Maternity Hospital,23.0547951,72.6208766,hospital,41
+Sentara Multispeciality Hospital,23.1125242,72.5834513,hospital,92
+Shri Hari Krishna Multi Speciality Hospital,22.727869,72.437637,hospital,48
+Lokhandwala General Hospital,23.0347002,72.5951832,hospital,38
+Bachardas Lashkari Hospital,23.035637,72.588423,hospital,45
+Shubham General Hospital,22.8284149,72.3582537,hospital,61
+Rhythm Heart and Medical Hospital,23.113388,72.583182,hospital,60
+J K Dental Hospital,23.1008525,72.5925013,dentist,37
+Lotus Multispeciality Hospital,23.1044464,72.6025578,hospital,50
+Namrata Heart and Medical Clinic,23.048981,72.601662,clinic,92
+Sethwala Hospital,22.7262642,72.4408365,hospital,56
+Shivsagar Hospital,22.835201,72.365566,hospital,75
+Gujarat State Police Welfare Hospital,23.055335,72.590092,hospital,67
+Ashirwad Maternity and Nursing Home,23.056258,72.620709,hospital,73
+New Life Hospital,22.995486,72.579059,hospital,75
+Neyo Hospital,22.834746,72.365066,hospital,74
+Puneet Maternity Nursing Home,23.051416,72.596142,hospital,70
+Indus Hospital,23.092043,72.591111,hospital,47
+Chepirog Hospital,23.001026,72.576899,hospital,63
+Jain Hospital,23.0521027,72.5953342,hospital,40
+Jiyansh Hospital and Prasutigruh,22.718781,72.436646,hospital,29
+Clear Vision Eye Hospital,23.045993,72.589386,hospital,20
+Param Multispeciality Hospital,23.1047391,72.5976157,hospital,94
+Jekuba Children's Hospital,22.724803,72.437541,hospital,30
+Patel Dental Clinic,22.7259138,72.4376501,dentist,60
+Shivam Hospital,23.0399922,72.5778602,hospital,75
+Ashirvad Children's Hospital,22.836764,72.366643,hospital,45
+Bharat Hospital,23.1250708,72.0483927,hospital,28
+Hridaan Hospital & Pharmacy,23.0943467,72.5469031,hospital,32
+Massom Children Hospital,22.99021,72.380033,hospital,56
+Sai Krupa Hospital,23.0188276,72.5134997,hospital,40
+Shreeji ENT and Orthopaedic Hospital,23.0464267,72.5343808,hospital,24
+Dr. Shailesh Jain,23.031238,72.527118,doctors,36
+Vraj Dental Clinic,23.097472,72.537055,dentist,94
+Avadh Dental Clinic,23.128407,72.045462,dentist,22
+Life Care Hospital,23.032409,72.459589,hospital,99
+Vishwa Vatsalya General Hospital,22.990399,72.379787,hospital,67
+Sanjivani Hospital,22.99546,72.3820779,hospital,74
+Tender Touch Children's Hospital,23.0323612,72.5247419,hospital,83
+Shivam Hospital,23.0333202,72.4658969,hospital,37
+Shreeji Multi Speciality Hospital,22.992421,72.378535,hospital,27
+Devi Hospital,23.0310152,72.5257914,hospital,86
+Genearl Eye Hospital,23.130402,72.043186,hospital,56
+Dr. Manish Goyal,23.04711,72.527537,doctors,66
+Ashirvad Hospital and Clinic,22.992924,72.380448,hospital,78
+Vismay Child Care Hospital,23.019857,72.512076,hospital,54
+Adarsh Hospital,23.0341111,72.4653431,hospital,91
+Prime Dental Care,23.121547,72.547202,dentist,82
+Chauhan Hospital,22.991419,72.377844,hospital,92
+Pearl Dental Care,23.093492,72.5455396,dentist,88
+Satyam Hospital,23.0940118,72.546777,hospital,25
+Angel Maternity and Nursing Home,23.128035,72.046505,hospital,61
+Khokkar Hospital,23.121299,72.052427,hospital,26
+Brinda Women's Hospital,23.0405865,72.5264512,hospital,95
+Krishna Hospital,23.128233,72.051298,hospital,45
+Navkar Dental Clinic,23.095124,72.546189,dentist,88
+Yusra Hospital,23.122745,72.051932,hospital,67
+Shri Gordhandas Charitable Hospital,23.040905,72.526418,hospital,32
+GUJARAT State Cooperative Tribunal,23.0257342,72.5795332,courthouse,99
+Sahyog Hospital,22.9874749,72.4788535,hospital,35
+Navjivan hospital,22.9859705,72.5008661,hospital,67
+Hope Hospital,22.985509,72.493561,hospital,73
+Mamata Hospital,22.9845108,72.4989295,hospital,85
+SHREY HOSPITAL,22.9835997,72.4984705,hospital,84
+Mamta Hospital,22.9809825,72.501192,hospital,73
+Premabhai Hall,23.0238178,72.5820013,public_hall,39
+Coffee Stand-CG Road,23.0360509,72.5611735,cafe,99
+7Violettes,23.040378,72.5449441,bakery,76
+Monte Carlo Exclusive Showroom,23.0200403,72.5578748,clothes,42
+Monte Carlo Showroom,23.0117186,72.5084185,clothes,75
+4D Square mall.,23.1029944,72.5957915,mall,96
+Monte Carlo Exclusive Showroom,23.1028203,72.5951743,clothes,68
+Monte Carlo Warehouse,23.0351743,72.5540638,wholesale,46
+SkinYoga,23.0210027,72.5546839,supermarket,60
+Bopal gam,23.0340108,72.4641074,bus_station,55
+Sterling City,23.0323222,72.4691519,bus_station,68
+Nalanda School,23.0718114,72.539258,school,64
+"Ahmedabad Trunk, House of Mg",23.0271285,72.5815218,clothes,32
+Indian Oil,22.3942125,71.9812021,fuel,76
+Reliance,22.3868901,71.9786842,fuel,40
+Dhandhuka bus station,22.3809167,71.9772907,bus_station,62
+Shree Muktajivan Swami Bapa Smruti Mandir,22.9732159,72.6114964,place_of_worship,24
+Max Fashion,23.0139658,72.5599716,clothes,50
+Max Fashion,23.0268655,72.5101534,clothes,76
+Greenobazaar,23.0253822,72.5542516,supermarket,46
+Jyoti fiber glass work,22.9963686,72.6378204,car_parts,48
+AFTR84,22.9873068,72.3894473,clothes,87
+Jyoti fibre glass,22.9961942,72.6377194,artwork,63
+McDonald's,23.0221413,72.5567513,fast_food,20
+Wyndham Ahmedabad,23.0062125,72.4542309,hotel,24
+Hocco Eatery,23.0175789,72.4750517,restaurant,31
+Swati Snacks,23.0244466,72.5589826,restaurant,24
+"Axis Bank, Memnagar Branch",23.0457257,72.5523509,bank,38
+"India Post, Darpan",23.0465505,72.552791,post_office,79
+"Police Station, Hatkesh",23.0467062,72.5530175,police,99
+Jawed Habib Hair Studio,23.0398457,72.507652,hairdresser,64
+Jawed Habib Hair Studio,23.0465691,72.5311643,hairdresser,33
+Amrut Mody institute of Management,23.0346573,72.5371832,college,60
+LD College of Arts,23.0346697,72.5380428,college,67
+Sompura Moorti Art,23.0339711,72.5105743,interior_decoration,28
+Kabadi market,22.9830095,72.5836927,marketplace,21
+Gujarat Handicrafts,22.9790857,72.5848755,furniture,53
+Deshi Chulha Non-veg,23.0158336,72.5508007,cafe,52
+Bean Box Cafe,23.0451215,72.4854863,cafe,96
+Umiya Mata Nu Mandir,23.0543121,72.4770925,place_of_worship,75
+Unknown,23.0200366,72.5555223,fountain,77
+Babadeepsingh Restaurant,23.0875162,72.683768,restaurant,88
+JANKI POLY PLAST,22.9738305,72.5986127,place_of_worship,47
+Diwan Bhel Pakodi Center,23.0163696,72.5248026,fast_food,47
+Jagdish Chaat Pakodi Center,23.0163966,72.5243683,fast_food,92
+Sambar Cafe,23.0333924,72.4354163,restaurant,32
+Domino's,23.0172744,72.5299212,fast_food,51
+Gambol,23.0758568,72.5095604,sports,51
+La Milano Pizzeria Prahladnagar,23.0116205,72.5052184,restaurant,35
+Decathlon,23.0247142,72.5563764,sports,64
+McDonald's,23.0258612,72.4762382,fast_food,24
+McDonald's,23.0123743,72.511119,fast_food,46
+Unknown,23.0562148,72.3847722,fountain,21
+Crush Culture Cafe Bar,23.0875987,72.6839578,cafe,65
+Dadu Cafe,23.0496098,72.6705415,cafe,47
+Mukta A2 Cinemas,23.0263829,72.5097931,cinema,56
+Gordhan Thal,23.0359596,72.5111196,restaurant,58
+Deva's Coffee Bar,23.0361967,72.5110489,fast_food,83
+MIthai & More,23.0158605,72.4684515,confectionery,58
+My My,23.037796,72.562492,clothes,85
+Miniso,23.0325101,72.5597384,variety_store,73
+Shreeji Krupa Bombay Vadapav,23.0371443,72.5290405,fast_food,55
+Manmandir,23.0269177,72.5573436,clothes,28
+Starbucks,23.0319557,72.5107614,cafe,33
+mocha,23.0318311,72.511298,cafe,37
+Gajanand Pauva House,23.0371776,72.5291086,fast_food,56
+Jay Mataji Fast Food,23.0371316,72.5290981,fast_food,96
+Varsha Fashion Private Limited,22.9175047,72.5289085,clothes,29
+Purohit Chavana and Sweet Mart,23.0182853,72.4716006,fast_food,64
+Holiday Inn Express,23.011444,72.5106175,hotel,20
+Adani Selection,23.0313547,72.5596837,clothes,55
+Puffiza,23.0276271,72.5588748,fast_food,73
+Patidar,23.0284321,72.5550503,clothes,98
+Tape Me Ft,23.0276806,72.5577834,clothes,70
+Telarica,23.0278177,72.5578597,clothes,71
+Unknown,23.0210018,72.5032003,bench,62
+Skyz Restaurant and Banquet,23.0116726,72.5081733,restaurant,44
+The Waffling Station,23.0322805,72.5551823,restaurant,32
+Unknown,23.027784,72.5607544,fountain,98
+The Arvind Store,22.9930426,72.6041333,clothes,46
+Asopalav,23.0260527,72.5714659,clothes,94
+Jay Watches & Co.,22.9971356,72.6081809,watches,47
+Unknown,23.023659,72.5085447,bench,96
+Unknown,23.0234422,72.5088987,bench,54
+Unknown,23.0236611,72.5085219,bench,47
+Unknown,23.0228405,72.5085722,bench,71
+Unknown,23.0236441,72.5086826,bench,46
+Unknown,23.0236589,72.5085381,bench,98
+Unknown,23.023312,72.5088596,bench,44
+Unknown,23.0234529,72.5089003,bench,85
+Unknown,23.0233464,72.5088826,bench,87
+Unknown,23.0228029,72.5085504,bench,96
+Unknown,23.0230319,72.508027,bench,77
+Unknown,23.0232026,72.5086665,bench,25
+Unknown,23.02366,72.508528,bench,86
+Unknown,23.0230223,72.5080265,bench,53
+Unknown,23.0230623,72.5080336,bench,33
+Unknown,23.0230397,72.5080289,bench,30
+Unknown,23.0236586,72.5085523,bench,75
+Unknown,23.0236268,72.5087773,bench,39
+Unknown,23.0227709,72.5082213,bench,44
+Unknown,23.022811,72.5085601,bench,52
+Unknown,23.0233288,72.5088743,bench,91
+Unknown,23.0227885,72.5085257,bench,58
+Unknown,23.0233191,72.508868,bench,90
+Unknown,23.0236412,72.5086983,bench,22
+Unknown,23.0227855,72.508432,bench,59
+Unknown,23.0227941,72.5085388,bench,96
+Unknown,23.0236202,72.508798,bench,71
+Unknown,23.0230531,72.508031,bench,62
+Unknown,23.0232153,72.5081823,bench,81
+Unknown,23.0236459,72.5086663,bench,71
+Unknown,23.0234638,72.5088996,bench,48
+Unknown,23.0233386,72.5088805,bench,68
+Unknown,23.0228277,72.5085698,bench,22
+Unknown,23.0403532,72.4940593,bench,67
+Unknown,23.0404692,72.4935158,bench,65
+Unknown,23.0403604,72.4938653,bench,76
+Unknown,23.0403061,72.4940363,bench,75
+Unknown,23.0403197,72.494052,bench,34
+Unknown,23.0403794,72.4940127,bench,80
+Unknown,23.0404397,72.4935203,bench,63
+Unknown,23.0404375,72.4935336,bench,75
+Unknown,23.0403142,72.4938768,bench,85
+Unknown,23.0403368,72.4940029,bench,44
+Unknown,23.0403773,72.4939772,bench,40
+Unknown,23.0404838,72.4935128,bench,55
+Unknown,23.0403249,72.4938472,bench,22
+Unknown,23.0403348,72.4940632,bench,51
+Unknown,23.0403381,72.4939474,bench,91
+Unknown,23.0404526,72.4935176,bench,30
+Unknown,23.0403584,72.4939583,bench,31
+Unknown,23.0402923,72.4940124,bench,92
+Unknown,23.0403318,72.4938358,bench,59
+Unknown,23.0403003,72.4939942,bench,75
+Unknown,23.0403714,72.4940361,bench,21
+Unknown,23.0403571,72.49388,bench,28
+Unknown,23.0403505,72.493896,bench,54
+Unknown,23.0404879,72.4935237,bench,80
+Unknown,23.0403197,72.4938597,bench,70
+Unknown,23.0403151,72.4939581,bench,88
+Unknown,23.040364,72.4938508,bench,81
+Unknown,23.0447902,72.5121158,bench,98
+Unknown,23.0442478,72.5118079,bench,49
+Unknown,23.0443468,72.5117521,bench,64
+Unknown,23.0445121,72.5115622,bench,92
+Unknown,23.0447899,72.511877,bench,85
+Unknown,23.0442026,72.5118469,bench,93
+Unknown,23.0450483,72.5118328,bench,24
+Unknown,23.0442544,72.5120207,bench,51
+Unknown,23.0447995,72.5121031,bench,84
+Unknown,23.0447834,72.5121261,bench,40
+Unknown,23.0438311,72.5117181,bench,83
+Unknown,23.0443508,72.5117322,bench,49
+Unknown,23.0438263,72.511701,bench,52
+Unknown,23.0445708,72.512112,bench,76
+Unknown,23.0446379,72.5118167,bench,83
+Unknown,23.0450143,72.5118819,bench,46
+Unknown,23.0444403,72.5116212,bench,31
+Unknown,23.0445268,72.5117815,bench,92
+Unknown,23.0445317,72.5117723,bench,24
+Unknown,23.0438499,72.5115936,bench,59
+Unknown,23.0450394,72.5118438,bench,57
+Unknown,23.0446908,72.5118838,bench,22
+Unknown,23.0444459,72.5115091,bench,55
+Unknown,23.0442442,72.5116649,bench,32
+Unknown,23.0446302,72.51181,bench,27
+Unknown,23.0445834,72.5121079,bench,72
+Unknown,23.0448053,72.5118829,bench,74
+Unknown,23.044432,72.5115219,bench,82
+Unknown,23.0441216,72.5115034,bench,36
+Unknown,23.0450269,72.5118664,bench,59
+Unknown,23.0444858,72.5118838,bench,98
+Unknown,23.0443064,72.5115745,bench,41
+Unknown,23.0444827,72.5118936,bench,25
+Unknown,23.0442721,72.5120289,bench,67
+Unknown,23.0442145,72.5114272,bench,88
+Unknown,23.0446811,72.5118783,bench,30
+Unknown,23.0440061,72.511648,bench,100
+Unknown,23.0444393,72.511607,bench,44
+Unknown,23.0442417,72.5116534,bench,66
+Unknown,23.0444765,72.5119057,bench,56
+Unknown,23.0444011,72.5117356,bench,75
+Unknown,23.0444728,72.5119173,bench,62
+Unknown,23.0445081,72.5115706,bench,31
+Unknown,23.0443991,72.5117501,bench,94
+Narsinh Mehta Statue,23.0389979,72.5288522,artwork,61
+Unknown,23.0134001,72.5122534,bench,54
+Unknown,23.0132476,72.5121937,bench,54
+Unknown,23.0132982,72.5121971,bench,31
+Unknown,23.0133075,72.5121722,bench,80
+Shree Bahuchar Studio,23.0175068,72.475034,photo_studio,70
+Elite32 Dental Clinic,22.9989942,72.5016229,dentist,42
+Ramtudi Fashion,22.9945345,72.6548463,clothes,29
+Vimla Hospital,22.9767385,72.6231298,hospital,87
+Unknown,22.9767643,72.6209643,atm,82
+Plumeria Cafe,22.961352,72.4239095,cafe,89
+Shree Trivedi International Courier & Cargo service,23.0214223,72.5534015,post_depot,68
+Gallops Food Plaza,22.4628568,72.1583849,food_court,44
+EV Charging Station,22.4628605,72.1589043,charging_station,46
+The Grill Street,23.0267886,72.5079662,restaurant,43
+Shivalik Shilp,23.0269943,72.5066805,supermarket,33
+Dr. Maulik Patwa,23.0172912,72.55578,clinic,85
+The House of Khaman,23.0396084,72.5644073,restaurant,71
+Bhookh Lagi Hai?,23.0218092,72.5062361,fast_food,29
+Mercedes Benz Service Center,23.0261686,72.4795472,car_repair,27
+Unknown,23.0208388,72.5564267,fountain,87
+DENTA CARE,23.0797583,72.5338506,dentist,40
+Leo Packers and Movers Ahmedabad,23.0042556,72.5338759,yes,31
+INDU MEDICARE,23.0451918,72.4675268,hospital,21
+RituRaj The Wedding Studio,23.0464077,72.6639799,clothes,69
+inHungr,23.0630354,72.6588726,food_court,44
+Parijat Children Hospital,23.0294026,72.5905818,hospital,30
+Pinakin Dala Hospital,23.0294443,72.5933151,hospital,91
+muncipal parsuti Hospital,23.0376253,72.5798827,hospital,56
+Shahur Medical Hospital,23.0360259,72.5781781,hospital,93
+Paras Hospital,23.0342097,72.5804374,hospital,69
+Shraddha Multispecialist Hospital,23.0320391,72.577354,hospital,76
+Sukhmani hospital,23.036498,72.5696194,hospital,68
+Sanjivani Eye Hospital,23.046029,72.5615306,hospital,87
+Shreyas Dental Hospital,23.0482467,72.5617682,hospital,54
+Unknown,23.0673766,72.5610257,hospital,50
+GuruKrupa Hospital,23.0604678,72.5352149,hospital,40
+Aneri CHildren Hospital,23.0694667,72.5431127,hospital,41
+Rosemary Womens Hospital,23.0318655,72.5259992,hospital,80
+Akshay Heart and Medical Hospital,23.0311855,72.5271428,hospital,93
+Sangini Hospital,23.0251067,72.5233013,hospital,23
+Rathi Hospital,23.0228555,72.5261005,hospital,95
+Jyoti Maternity Hospital,23.02222,72.538511,hospital,53
+Vatsalya Gynec Hospital,23.0067417,72.5325801,hospital,30
+Jivraj Mehta Hospital,23.0086307,72.5432561,hospital,97
+Shree Harikrupa Hospital,23.0201123,72.5615615,hospital,51
+Kalptaru Hospital,23.0493049,72.5944694,hospital,63
+Kidney Hospital,23.04949,72.6074913,hospital,91
+Civil Hospital,23.0522972,72.6043839,hospital,93
+Military Hospital,23.0590415,72.601975,hospital,36
+GCS Hospital,23.0465729,72.6082954,hospital,41
+Ayushman Medical Hospital,23.0237298,72.6391848,hospital,75
+Shivam Surgical Hospital,23.0729799,72.6528746,hospital,96
+Aneri CHildren Hospital,23.0694304,72.5431262,hospital,65
+Cornea Foundation Hospital,23.0461549,72.536403,hospital,23
+Shell,22.9871408,72.6269447,fuel,38
+Gwalia Sweets,23.017434,72.4756286,fast_food,46
+Maruti Hardware & Plywood,23.0069095,72.4563448,hardware,20
+Unknown,22.9659167,72.5918667,waste_disposal,95
+Capital Security System,23.0863499,72.6831131,electronics,47
+Authentic cafe,23.0319107,72.5883477,cafe,88
+Hotel Kamran Palace,23.0269056,72.5829956,hotel,97
+Gopal Dairy,22.9903525,72.6368855,dairy,71
+Sindhwai Temple,22.9900693,72.6355521,place_of_worship,80
+Micro Machine Tools,23.0206424,72.6725641,supermarket,38
+Jassi De Parathe,23.0123617,72.5110318,restaurant,42
+Partheswar Temple,22.9675705,72.6074593,place_of_worship,75
+Reliance mart,23.0446678,72.5880349,mall,29
+bahumali bhavan,23.0254619,72.5794892,guest_house,27
+Unknown,23.0275632,72.5811194,Lucky tea shop,65
+Unknown,23.0266731,72.5766712,library,23
+The Parterre,23.0509007,72.5037209,hotel,88
+Choco drama,23.0410761,72.5269272,cafe,36
+market,23.040802,72.5256771,supermarket,20
+leela sandwich,23.0407863,72.5275081,fast_food,69
+Bharat Dugdhalay,22.9949799,72.6228417,dairy,40
+JK MEDIRISE Disposable Medical Devices,23.0338871,72.5107957,supermarket,63
+Divan Ballubhai School,23.0122755,72.5686984,school,22
+Diva Women's Hospital,23.0492471,72.5219853,hospital,27
+Tong Garden,22.9849372,72.2485347,health_food,51
+Star Door To Door (M),23.0332098,72.5649625,post_depot,32
+The OLD LITTLE FLOWER SCHOOL,23.1026901,72.5775928,school,42
+Shiv mandir,23.1062878,72.5780403,place_of_worship,78
+Kendriya Vidyala Sabarmati,23.1006535,72.5815065,school,58
+The NEW LITTLE FLOWER SCHOOL,23.1043189,72.5781828,school,63
+Bharat Bakery,23.1082895,72.5823813,bakery,95
+Sakar English School,23.1088888,72.5918371,school,54
+Hello Stationary services,23.108341,72.5827474,stationery,61
+Ramdev Farsan,23.1084228,72.5824778,restaurant,72
+Hira Misthan,23.1078617,72.5846468,confectionery,88
+Monginis Cake shop,23.1089422,72.5912774,restaurant,52
+Podar International School,23.1097883,72.590667,school,50
+Subway.,23.1035224,72.5960745,restaurant,45
+Magson Fresh and Frozen,23.1094665,72.5914101,confectionery,90
+The Belgian Waffle,23.1096267,72.5938416,restaurant,91
+My Stationaries,23.1095409,72.5938955,stationery,56
+Tandoor & Tadka,23.1096095,72.5942231,restaurant,82
+Jalandhar Sports,23.1088755,72.5953445,yes,99
+United Colors Of Benetton,23.1028912,72.5954156,clothes,58
+La Pino's Pizza.,23.1034803,72.5961933,restaurant,91
+Titan World,23.1032208,72.5956392,watches,71
+Dangee Dums,23.1033646,72.5961458,restaurant,75
+La Milano Pizzeria.,23.103377,72.5958266,restaurant,95
+Gwalia Sweets Private Limited,23.102916,72.5952916,restaurant,39
+Will's Lifestyle.,23.1030052,72.5956096,clothes,22
+Zudio-North Plaza Motera,23.1020396,72.5942029,yes,79
+Go Colors Clothing,23.1023326,72.5946267,yes,96
+Puma,23.1031162,72.5955664,yes,81
+Bata Store,23.1027979,72.5957005,yes,77
+Arrow Clothing Store,23.1029015,72.595789,yes,22
+PVR Motera,23.1030557,72.5958911,cinema,91
+Bopal Fire Station,23.0126733,72.4711874,fire_station,77
+Unknown,23.013126,72.5123633,bench,49
+Unknown,23.0131556,72.5123607,bench,33
+Unknown,23.0131766,72.5122929,bench,76
+Unknown,23.0131711,72.5122735,bench,33
+Unknown,23.0134408,72.5124009,bench,64
+Skinfluent Clinic,23.0522056,72.5921024,doctors,52
+"Sidi Bashid mosque, the shaking minarets",23.0237664,72.5996961,place_of_worship,21
+"Dr Alka Makwana - Arista Skin, Hair and Laser Clinic",23.092598,72.5459217,doctors,63
+Hotel Surya Villas by SrUrban Hotels,23.041029,72.5520935,hotel,96
+"Department of Animation, IT, IMS and Mobile Application",23.0386219,72.5453568,college,90
+BLUEBERRY RESTAURANT & BANQUET,23.0416984,72.6784893,restaurant,43
+Permit Shop,23.0423693,72.514597,alcohol,70
+Permit Shop,23.0318963,72.5766929,alcohol,94
+Permit Shop,23.030564,72.5640345,alcohol,77
+Permit Shop,23.0334082,72.5763187,alcohol,81
+Permit Shop,23.0221573,72.5675542,alcohol,55
+Permit Shop,23.0353514,72.560205,alcohol,74
+Permit Shop,23.0106832,72.5048678,alcohol,50
+Permit Shop,23.01499,72.5043286,alcohol,58
+Permit Shop,23.0393771,72.5304465,alcohol,66
+Permit Shop,23.0240019,72.5073271,alcohol,47
+Permit Shop,23.027837,72.5121247,alcohol,58
+Permit Shop,23.0653464,72.5841727,alcohol,33
+Permit Shop,23.0459841,72.5081211,alcohol,35
+Permit Shop,23.044182,72.4820573,alcohol,40
+Permit Shop,23.0477803,72.570414,alcohol,80
+Permit Shop,23.0826062,72.6166076,alcohol,100
+Dr. Arora's Orthodontic & Dental Clinic,23.1089092,72.5952869,doctors,47
+Palladium Mall,23.0581218,72.5208841,mall,29
+House Of Teeth,23.1215655,72.5723303,dentist,27
+H3 World School,23.1273816,72.562771,school,35
+Sakha Surti Locho & Rasawala Khaman,22.9782788,72.6106967,fast_food,83
+Indusind Bank ATM,23.0747717,72.6235194,atm,41
+Dena Bank ATM,23.0725319,72.6206597,atm,95
+Dosawala,23.0681879,72.576195,restaurant,60
+Stallions Cafe,23.0843166,72.4878637,cafe,90
+Kailash Tower,23.0403035,72.5607224,apartment,42
+Marshall,23.0300339,72.5992998,hotel,27
+Emprado Salon Nails Academy,23.0692579,72.6599116,hairdresser,22
+HP World,23.0253774,72.5301999,computer,54
+1944 The Hocco Kitchen,23.0381383,72.6772579,restaurant,75
+FONEBOOK RTO SUBHASHBRIDGE,23.0664532,72.5838669,mobile_phone,80
+The Gyan Café,23.1048411,72.5379754,cafe,40
+Ishwarkrupa Emporium,23.0095524,72.5156419,yes,32
+Ahmedabad Power Tools,22.9917085,72.51399,electrical,92
+Dinchuiliu Vidhani Kitchen,23.0721192,72.6421901,restaurant,91
+Ladies & Gents Tailors,23.0353456,72.5273517,yes,64
+ADORN Cosmetic Clinic,23.0255598,72.527325,hospital,65
+ADORN AESTHETIC CLINIC,23.0226039,72.5509537,hospital,51
+Unknown,23.0255692,72.3098592,hotel,73
+Ginger,23.0264243,72.3101169,hotel,30
+Unknown,23.0293476,72.5721168,information,69
+HL Frankie,23.0162491,72.4646557,fast_food,47
+Unknown,23.2527759,72.1404568,bench,81
+TEJASYA ORTHOPAEDIC HOSPITAL - DR RAVI PATEL orthopaedic surgeon,23.0497137,72.6701157,hospital,78
+Navkar traders,23.0775587,72.5548427,yes,92
+Trisha Hospital,23.0731673,72.5594745,clinic,23
+Hotel Sarvottam,22.9853909,72.4188332,restaurant,52
+Nanavatty Fountaion,23.0216852,72.5785585,fountain,46
+Lokmanya Tilak Statue,23.0216455,72.5793844,artwork,36
+Queen Victoria statue canopy,23.0216418,72.5789186,artwork,78
+Unknown,23.0211015,72.5779033,place_of_worship,63
+Unknown,23.0205502,72.5788756,toilets,86
+Dargah,23.021186,72.5798769,place_of_worship,23
+Unknown,23.0495992,72.5369824,artwork,66
+Indian Oil,22.8671793,72.4576817,fuel,69
+Amul Parlour,23.0277968,72.503133,convenience,46
+Podar International School,23.4434922,72.0028465,school,87
+Sitapur Primary School,23.4540467,71.9954505,school,61
+Hansalpur Primary School,23.4908257,72.0182736,school,79
+Unknown,22.982501,72.6031889,atm,48
+Monginis,22.9837455,72.6024617,pastry,21
+Purezr Live Cake & Bakery,22.9838943,72.6023829,bakery,32
+Cake 'N' Joy,22.9839887,72.6023132,bakery,21
+Kanishka Dental Care,22.987244,72.6030869,dentist,61
+Unknown,23.0605224,72.5878043,toilets,65
+Indian Oil,23.0575051,72.5562557,fuel,36
+The dark roast,23.0124903,72.5033515,cafe,32
+divya farm & nursery,23.0606654,72.5307212,garden_centre,20
+green gujarat nursery,23.055172,72.5217051,garden_centre,58
+sankat mochan nursery,23.037706,72.5147718,garden_centre,28
+Naidu nursery,23.0273673,72.504409,garden_centre,35
+lav kush nursery,23.0258931,72.4887609,garden_centre,56
+VRUNDAVAN NURSERY & PLANTATION,23.0677935,72.5722381,garden_centre,57
+ALPESH NURSERY,23.0486272,72.5953182,garden_centre,100
+Zalak Nursery,23.1211873,72.5122509,garden_centre,97
+Mother Nature,23.0550602,72.5546905,garden_centre,49
+UMAROSE NURSERY GOTA,23.0951277,72.5289342,garden_centre,34
+Dharti Horticulture Nursery & Farm,23.1360644,72.5318893,garden_centre,84
+Maurya Nursery,23.113362,72.5872655,garden_centre,32
+Gauri Plants Nursery Farm,23.1336148,72.5660508,garden_centre,30
+Shree Satyanarayan Nursery And Farm,23.0100393,72.4749353,garden_centre,78
+Honest Restaurant,23.0309116,72.4650527,restaurant,91
+Unknown,23.0169826,72.4762188,parking,99
+Anand Niketan School Sarkhej,22.9892365,72.4823886,school,83
+Pizza Hut,23.0267125,72.4769539,restaurant,69
+Timtim,23.0362706,72.5034854,restaurant,85
+Sambhar Cafe,23.0334428,72.4370691,cafe,61
+Kamdhenu Ayurvedic Stores,23.0322943,72.4694425,herbalist,33
+Prakash Bhojnalaya,23.078011,72.5901382,fast_food,37
+Unknown,23.0607035,72.5812297,toilets,50
+Unknown,23.0602174,72.580244,toilets,83
+Unknown,23.0602262,72.5802525,toilets,63
+Unknown,23.0606706,72.5812606,toilets,76
+Book Shop,23.0599407,72.5803907,gift,72
+Unknown,23.0505708,72.5001224,atm,97
+HDFC Bank,23.0506197,72.4995644,bank,72
+Sri Udupi,23.0499932,72.4992539,restaurant,68
+Bank of Baroda,23.05057,72.5000671,bank,47
+State Bank of India,23.0502369,72.4985842,bank,95
+Unknown,23.0502383,72.4985353,atm,23
+HDFC Bank,23.007867,72.4544201,bank,83
+Shriji Bombay Vada Pav,23.0298827,72.4746282,fast_food,39
+charvi Hospital,22.9941963,72.6715286,hospital,75
+Vardhman Group IND,23.0504883,72.6518607,supermarket,62
+Unknown,23.0592254,72.620684,artwork,82
+Siddhi Computer and Mobile,23.0131511,72.5188982,electronics,36
+McDonald's,23.0218259,72.55691,fast_food,60
+Burger King,23.0217347,72.5569853,fast_food,20
+Taco Bell,23.0217891,72.5569528,fast_food,79
+KFC,23.0216444,72.5570471,fast_food,91
+Shri Maruti Nandan,23.0216852,72.5570151,restaurant,20
+MAHAVIR KIRANA STORE,23.0150729,72.5673346,grocery,44
+Kerala Store,23.0403711,72.5272829,general,81
+Navi Masjid (Masjid-e-Nawab),22.9957645,72.586788,place_of_worship,66
+Safa Collection,23.0688643,72.5868224,fabric,32
+Kettl Cafe Sarkhej-Sanand Rd.,22.9876163,72.4476696,cafe,47
+Open air food market,23.0233074,72.588879,restaurant,22
+Hotel Nest,23.1278925,72.0515473,hotel,95
+Domino's,22.9912301,72.6323612,fast_food,38
